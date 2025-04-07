@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>MEI változatokkal</title>
+         </titleStmt>
+         <pubStmt>
+            <date>2023-10-27</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="efewsv91">
+         <appInfo xml:id="aopr85r1">
+            <application xml:id="a1r7lix2" enddate="2025-04-07T17:29:53" startdate="2025-04-07T17:29:28" version="1.2.3">
+               <name xml:id="n4r9v581">mei-friend</name>
+               <p xml:id="pxff3731">First edit by mei-friend 1.2.3, 18 March 2025.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef>
+            <staffGrp>
+              <staffDef n="1" lines="5" clef.shape="G" clef.line="2"/>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <measure n="1">
+              <staff n="1">
+                <layer n="1">
+                  <choice xml:id="cq40rvc">
+                     <orig>
+                        <note dur="4" pname="d" ></note>
+                     </orig>
+                     <reg>
+                        <note dur="2" pname="c" ></note>
+                     </reg>
+                    </choice>
+                 </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
