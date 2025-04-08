@@ -517,39 +517,27 @@
                         <rend xml:id="r182wl5z" glyph.auth="smufl"></rend> = 80</tempo>
                      <trill xml:id="tmqb6s3" staff="12" startid="#nn9chp7" />
                      <dir xml:id="d1i10wko" staff="25" tstamp="0" place ="above" vgrp="2100">
-                        <rend xml:id="r6d0ik" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord.</rend>
+                        <rend xml:id="r6d0ik" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord. arco</rend>
                      </dir>
                      <dir xml:id="d1xmg407" staff="25"  place ="above" tstamp="0" vgrp="2422">
                         <rend xml:id="rxygknv" fontfam="Minion Pro" fontstyle="normal" fontweight="bold">Andante religioso</rend>
                      </dir>
                      <tempo xml:id="t1sgvxpz" staff="25" tstamp="1" mm="80" mm.unit="4">
                         <rend xml:id="r1qo0dkj" glyph.auth="smufl"></rend> = 80</tempo>
-                     <dir xml:id="d1gxe1dd" staff="25" tstamp="2.4"  place ="above" vgrp="2100">
-                        <rend xml:id="rgtd5go" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">arco</rend>
-                     </dir>
                      <tie xml:id="t1jnule5" startid="#n1e9ytem" endid="#ncsbjvx" curvedir="below" />
                      <hairpin xml:id="h84anyb" color="#000000" staff="25" tstamp="3.5" tstamp2="0m+4.9961" form="cres" vgrp="650" />
                      <slur xml:id="sei7q7t" color="#000000" startid="#nherxon" endid="#njg3jyk" curvedir="below" />
                      <dir xml:id="d1ux1phl" staff="26" tstamp="0"  place ="above" vgrp="2100">
-                        <rend xml:id="ra2mw5t" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord.</rend>
-                     </dir>
-                     <dir xml:id="dhjepgg" staff="26" tstamp="2.4"  place ="above" vgrp="2100">
-                        <rend xml:id="r16n8mbg" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">arco</rend>
+                        <rend xml:id="ra2mw5t" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord. arco</rend>
                      </dir>
                      <tie xml:id="ttu5liq" startid="#no9azpj" endid="#nbnolkz" curvedir="below" />
                      <slur xml:id="sv8adax" color="#000000" startid="#nbnolkz" endid="#ncdy21c" curvedir="below" />
                      <dir xml:id="d6tgkfr" staff="27" tstamp="0"  place ="above" vgrp="2100">
-                        <rend xml:id="rmwzzqi" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord.</rend>
-                     </dir>
-                     <dir xml:id="d1lflsp1" staff="27" tstamp="2.4"  place ="above" vgrp="2100">
-                        <rend xml:id="rdphycr" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">arco</rend>
+                        <rend xml:id="rmwzzqi" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord. arco</rend>
                      </dir>
                      <tie xml:id="t1su58yz" startid="#n1s56mpb" endid="#n38akmi" curvedir="below" />
                      <dir xml:id="dmrsgbk" staff="28" tstamp="0"   place ="above" vgrp="2100">
-                        <rend xml:id="ryojq9b" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord.</rend>
-                     </dir>
-                     <dir xml:id="d1xiqlmn" staff="28" tstamp="2.4"  place ="above" vgrp="2100">
-                        <rend xml:id="r1i0d1v9" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">arco</rend>
+                        <rend xml:id="ryojq9b" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord. arco</rend>
                      </dir>
                      <slur xml:id="s5b2s06" color="#000000" startid="#n15q7owl" endid="#n1m44wxo" curvedir="above" />
                      <dynam xml:id="d1p3f7ik" staff="29" tstamp="1" vgrp="700">
