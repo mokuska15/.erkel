@@ -335,7 +335,7 @@
                      </staff>
                      <staff xml:id="s2xp6h4" n="3">
                         <layer xml:id="l1wysvcc" n="1">
-                           <rest xml:id="r1hbh23d"   dur="1" />
+                           <rest xml:id="r1hbh23d" dur="1" />
                         </layer>
                      </staff>
                      <staff xml:id="stmflgf" n="4">
@@ -515,7 +515,7 @@
                      </dir>
                      <tempo xml:id="tqxfjwz" staff="12" tstamp="1" mm="80" mm.unit="4">
                         <rend xml:id="r182wl5z" glyph.auth="smufl"></rend> = 80</tempo>
-                     <trill xml:id="tmqb6s3" staff="12" startid="#nn9chp7" />
+                     <trill xml:id="tmqb6s3" staff="12" startid="#nn9chp7" endid="n1aanbu4" />
                      <dir xml:id="d1i10wko" staff="25" tstamp="0" place ="above" vgrp="2100">
                         <rend xml:id="r6d0ik" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">con sord. arco</rend>
                      </dir>
@@ -1325,9 +1325,6 @@
                         <rend xml:id="rozc0f9" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">p</rend>
                      </dynam>
                      <slur xml:id="s3os7lk" color="#000000" startid="#naamcaw" endid="#n1k6ykev" curvedir="above" />
-                     <dir xml:id="ddzp0ce" staff="22" tstamp="1" vgrp="930">
-                        <rend xml:id="r1q1c1n6" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
-                     </dir>
                   </measure>
                   <measure xml:id="m8h1ahn"  facs="#zone_01JN1J8W542FV1HEH6QV0Z8KA0" n="171">
                      <staff xml:id="s1dflgcl" n="1">
@@ -2791,6 +2788,7 @@
                      <slur xml:id="s8u5dne" color="#000000" startid="#nybkg3p" endid="#nmw4a00" curvedir="below" />
                      <slur xml:id="s1jtxaws" color="#000000" startid="#n1r3uqt7" endid="#nv63hk0" curvedir="below" />
                      <slur xml:id="s1v1xvqb" color="#000000" startid="#n9g3wmo" endid="#nrktbrk" curvedir="below" />
+                     <trill startid="n13ap9qa"></trill>
                      <slur xml:id="s4gds96" color="#000000" startid="#n13ap9qa" endid="#ne266ge" curvedir="below" />
                      <slur xml:id="s6weurg" color="#000000" startid="#n11wzjea" endid="#nj6oemp" curvedir="above" />
                      <slur xml:id="sypbg6c" color="#000000" startid="#n1ezak9d" endid="#n10ipdzi" curvedir="above" />
@@ -3370,6 +3368,7 @@
                      <hairpin xml:id="ha35s8w" color="#000000" staff="12" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="550" />
                      <hairpin xml:id="h1exfyyc" color="#000000" staff="12" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="550" />
                      <fermata xml:id="f12k107b" staff="12" startid="#n1b5gebl" shape="curved" />
+                     <trill startid="n1b5gebl"></trill>
                      <slur xml:id="s19jiejn" color="#000000" startid="#np55u4f" endid="#nbzgihj" curvedir="below" />
                      <hairpin xml:id="h1jhhtxo" color="#000000" staff="21" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="2330" />
                      <hairpin xml:id="hipn8ky" color="#000000" staff="21" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="2330" />
@@ -3748,7 +3747,7 @@
                      <dynam xml:id="d1emgh41" staff="8" tstamp="1" vgrp="710">
                         <rend xml:id="rzyxujf" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">f</rend>
                      </dynam>
-                     <dir xml:id="d1ccz5ke" staff="8" tstamp="1" vgrp="2100">
+                     <dir xml:id="d1ccz5ke" staff="8"  place="above" tstamp="1" vgrp="2100">
                         <rend xml:id="r1lhm5ug" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">a2</rend>
                      </dir>
                      <dynam xml:id="d1m0p9b0" staff="9" tstamp="1" vgrp="700">
@@ -4610,16 +4609,16 @@
                      <dynam xml:id="d1ff40y9" staff="10" tstamp="1" vgrp="710">
                         <rend xml:id="r1v4naee" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ff</rend>
                      </dynam>
-                     <dynam xml:id="d1hr5xiv" staff="21" tstamp="1" vgrp="2200">
+                     <dynam xml:id="d1hr5xiv" staff="21"  place="above" tstamp="1" vgrp="2200">
                         <rend xml:id="r1bekhds" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ff</rend>
                      </dynam>
-                     <dynam xml:id="dpmnsur" staff="22" tstamp="1" vgrp="2150">
+                     <dynam xml:id="dpmnsur" place="above" staff="22" tstamp="1" vgrp="2150">
                         <rend xml:id="r8zr3vb" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ff</rend>
                      </dynam>
-                     <dynam xml:id="d1j10efa" staff="23" tstamp="1" vgrp="2200">
+                     <dynam xml:id="d1j10efa" place="above" staff="23" tstamp="1" vgrp="2200">
                         <rend xml:id="rfirkce" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ff</rend>
                      </dynam>
-                     <dynam xml:id="d1p3bcgm" staff="24" tstamp="1" vgrp="2200">
+                     <dynam xml:id="d1p3bcgm"  place="above" staff="24" tstamp="1" vgrp="2200">
                         <rend xml:id="rsc561a" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ff</rend>
                      </dynam>
                      <dynam xml:id="d1gpd8u6" staff="25" tstamp="1" vgrp="700">
@@ -5046,6 +5045,7 @@
                      <hairpin xml:id="ho00gp8" color="#000000" staff="9" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="670" />
                      <hairpin xml:id="hwsg8io" color="#000000" staff="10" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="650" />
                      <hairpin xml:id="h1iptlm5" color="#000000" staff="10" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="650" />
+                     <trill startid="n1arqgwl"></trill>
                      <hairpin xml:id="h4qbnat" color="#000000" staff="12" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="550" />
                      <hairpin xml:id="hz9peua" color="#000000" staff="12" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="550" />
                      <hairpin xml:id="hvnks7a" color="#000000" staff="21" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="2250" />
@@ -5056,7 +5056,7 @@
                      <hairpin xml:id="h6iclkn" color="#000000" staff="23" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="2250" />
                      <hairpin xml:id="h1ty4az3" color="#000000" staff="24" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="2250" />
                      <hairpin xml:id="hhaife0" color="#000000" staff="24" tstamp="3.6406" tstamp2="0m+4.1133" form="dim" vgrp="2250" />
-                     <dir xml:id="d1trlnkm" staff="25" tstamp="1" vgrp="2390">
+                     <dir xml:id="d1trlnkm" staff="25" place="above" tstamp="1" vgrp="2390">
                         <rend xml:id="rtq0y9a" fontfam="Minion Pro" fontstyle="italic" fontweight="normal">tenuto</rend>
                      </dir>
                      <hairpin xml:id="h1kesorl" color="#000000" staff="25" tstamp="3" tstamp2="0m+3.5039" form="cres" vgrp="570" />
@@ -5745,7 +5745,7 @@
                         <rend xml:id="r9d9g66" fontfam="Minion Pro" fontstyle="italic" fontweight="normal">diminuendo</rend>
                      </dynam>
                      <hairpin xml:id="h10r0ar2" color="#000000" staff="12" tstamp="1" tstamp2="0m+4.9961" form="dim" vgrp="650" />
-                     <trill xml:id="t1jrjrwj" staff="12" startid="#n1sfp6uw" />
+                     <trill xml:id="t1jrjrwj" staff="12" startid="#n1sfp6uw" endid="ncxu51c"/>
                      <dynam xml:id="d1cpa9yo" staff="25" tstamp="1" place="above" vgrp="2300">
                         <rend xml:id="rvz7mam" fontfam="Minion Pro" fontstyle="italic" fontweight="normal">diminuendo</rend>
                      </dynam>
@@ -6251,7 +6251,7 @@
                      <dynam xml:id="d1peaoro" staff="3" tstamp="1" vgrp="700">
                         <rend xml:id="ry2vbf3" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">pp</rend>
                      </dynam>
-                     <dir xml:id="dbn8jm0" staff="4" tstamp="1" vgrp="2100">
+                     <dir xml:id="dbn8jm0" staff="4" place="above" tstamp="1" vgrp="2100">
                         <rend xml:id="r1byllqo" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">a2</rend>
                      </dir>
                      <dynam xml:id="d37hhrr" staff="4" tstamp="1" vgrp="700">
@@ -6716,14 +6716,14 @@
                         </layer>
                      </staff>
                      <trill xml:id="t1mboxzv" staff="12" startid="#n1b4vnuu" />
-                     <hairpin xml:id="h12pw1ur" color="#000000" staff="21" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
-                     <hairpin xml:id="h1bqu690" color="#000000" staff="21" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
-                     <hairpin xml:id="hetw3q4" color="#000000" staff="22" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
-                     <hairpin xml:id="hyvvqxo" color="#000000" staff="22" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
-                     <hairpin xml:id="h19hq1l9" color="#000000" staff="23" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
-                     <hairpin xml:id="h1adyom2" color="#000000" staff="23" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
-                     <hairpin xml:id="htbg0az" color="#000000" staff="24" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
-                     <hairpin xml:id="hus3s6q" color="#000000" staff="24" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
+                     <hairpin xml:id="h12pw1ur" color="#000000" place="above" staff="21" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
+                     <hairpin xml:id="h1bqu690" color="#000000"  place="above" staff="21" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
+                     <hairpin xml:id="hetw3q4" color="#000000"  place="above" staff="22" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
+                     <hairpin xml:id="hyvvqxo" color="#000000"  place="above" staff="22" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
+                     <hairpin xml:id="h19hq1l9" color="#000000"  place="above" staff="23" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
+                     <hairpin xml:id="h1adyom2" color="#000000"  place="above" staff="23" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
+                     <hairpin xml:id="htbg0az" color="#000000"  place="above" staff="24" tstamp="1" tstamp2="0m+2.5" form="cres" vgrp="2150" />
+                     <hairpin xml:id="hus3s6q" color="#000000" place="above"  staff="24" tstamp="3" tstamp2="0m+4" form="dim" vgrp="2150" />
                   </measure>
                   <pb xml:id="piy4737" facs="#surface_01JN1J8W578MFQ16FNNWS19899"/>
                   <measure xml:id="mnhncej" facs="#zone_01JN1J8W58YZ87S6Q242V8J14V" n="186">
@@ -8247,7 +8247,7 @@
                      <tie xml:id="t1qjoden" startid="#nij7n62" curvedir="below" />
                      <tie xml:id="t1rubr84" startid="#n13ofwla" endid="#nvl93df" curvedir="above" />
                      <tie xml:id="t1ru5r84" startid="#nij7n62" endid="#nz84xrm" curvedir="below" />
-                     <trill xml:id="t4laio1" staff="12" startid="#ntnoubl" />
+                     <trill xml:id="t4laio1" staff="12" startid="#ntnoubl" endid="#nj80e2y"/>
                      <hairpin xml:id="h1539af8" color="#000000" staff="21" tstamp="1" tstamp2="0m+2" form="cres" vgrp="2150" />
                      <hairpin xml:id="hfltjz5" color="#000000" staff="21" tstamp="2.375" tstamp2="0m+4" form="dim" vgrp="2150" />
                      <hairpin xml:id="h75lyjk" color="#000000" staff="22" tstamp="1" tstamp2="0m+2" form="cres" vgrp="2150" />
@@ -8496,7 +8496,6 @@
                                  <accid xml:id="a9m0cav" accid="f" />
                               </note>
                               <note xml:id="nb9qm22"  dur="8" oct="2" pname="b" color="#000000" stem.dir="down">
-                                 <accid xml:id="a12tkx4h" accid="f" />
                               </note>
                            </beam>
                         </layer>
@@ -8747,7 +8746,7 @@
                      <slur xml:id="sen6m0r" color="#000000" startid="#nka89nr" endid="#n1ypuksz" curvedir="below" />
                      <tie xml:id="tjfk9bg" startid="#nrxlapx" endid="#n2edqn2" curvedir="above" />
                      <slur xml:id="s1t06nrm" color="#000000" startid="#nd7g1f6" endid="#np9kl46" curvedir="above" />
-                     
+                     <trill xml:id="t529ng7" staff="12" startid="#nj80e2y" />
                      <tie xml:id="t1fd2cen" startid="#n1m7kcmn" endid="#n6gl9w7" curvedir="below" />
                      <slur xml:id="s1uan6zh" color="#000000" startid="#nj05ico" endid="#n11quo56" curvedir="below" />
                      <slur xml:id="swny33q" color="#000000" startid="#nhhmv9v" endid="#nshbfm" curvedir="below" />
