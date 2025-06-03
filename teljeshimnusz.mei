@@ -507,7 +507,7 @@
                      <dynam xml:id="d11yk59w" staff="12" tstamp="1" vgrp="700">
                         <rend xml:id="r61scld" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">ppp</rend>
                      </dynam>
-                     <dir xml:id="d1dyvpat" staff="12" tstamp="1" vgrp="2562">
+                     <dir xml:id="d1dyvpat" staff="12"  place="above" tstamp="1" vgrp="2562">
                         <rend xml:id="r1wufowm" fontfam="Minion Pro" fontstyle="normal" fontweight="bold">Andante religioso</rend>
                      </dir>
                      <tempo xml:id="tqxfjwz" mm="80" mm.unit="4" staff="12" tstamp="1">
@@ -1120,7 +1120,7 @@
                      <dir xml:id="dsan0ab" place="above" staff="1" tstamp="1" vgrp="2530">
                         <rend xml:id="rgv1xjk" fontfam="Minion Pro" fontstyle="normal" fontweight="bold">ritardando</rend>
                      </dir>
-                     <dir xml:id="duphsvs" staff="12" tstamp="1" vgrp="2530">
+                     <dir xml:id="duphsvs" staff="12" place="above" tstamp="1" vgrp="2530">
                         <rend xml:id="r1he4vaa" fontfam="Minion Pro" fontstyle="normal" fontweight="bold">ritardando</rend>
                      </dir>
                      <fermata xml:id="f1afry98" shape="curved" staff="12" startid="#n190gxg6"/>
