@@ -342,7 +342,7 @@
                      </staff>
                      <staff xml:id="s1qud21v" n="5">
                         <layer xml:id="lz87ycr" n="1">
-                           <rest xml:id="rx1dogj" dur="1">
+                           <rest xml:id="rx1dogj" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1texu54" n="6">
@@ -357,7 +357,7 @@
                      </staff>
                      <staff xml:id="s1yj3gej" n="8">
                         <layer xml:id="l19htos9" n="1">
-                           <rest xml:id="r14k1tpy" dur="1">
+                           <rest xml:id="r14k1tpy" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1isy3t4" n="9">
@@ -367,7 +367,7 @@
                      </staff>
                      <staff xml:id="sha6bo" n="10">
                         <layer xml:id="l1va5nf0" n="1">
-                           <mRest xml:id="r1pgatd7" dur="1">
+                           <mRest xml:id="r1pgatd7" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s8ubnny" n="11">
