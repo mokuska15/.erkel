@@ -939,57 +939,57 @@
                   <measure xml:id="eg84k0b" facs="#zone_01JM4K7M5B4XGQ0972T74WTMS8" n="169" right="dbl">
                      <staff xml:id="sqea04n" n="1">
                         <layer xml:id="l1rnczu0" n="1">
-                           <rest xml:id="rx8dblu" dur="1"/>
+                           <mRest xml:id="rx8dblu" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sx5sg0d" n="2">
                         <layer xml:id="l19k3mj5" n="1">
-                           <rest xml:id="r25th45" dur="1"/>
+                           <mRest xml:id="r25th45" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sxqmcm3" n="3">
                         <layer xml:id="lbsd9j0" n="1">
-                           <rest xml:id="rjarovn" dur="1"/>
+                           <mRest xml:id="rjarovn" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s14y954x" n="4">
                         <layer xml:id="ltydek5" n="1">
-                           <rest xml:id="rgu6qjh" dur="1"/>
+                           <mRest xml:id="rgu6qjh" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="snwnenp" n="5">
                         <layer xml:id="l17xvjny" n="1">
-                           <rest xml:id="r1mblmj5" dur="1"/>
+                           <mRest xml:id="r1mblmj5" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sdo80en" n="6">
                         <layer xml:id="lpygvy" n="1">
-                           <rest xml:id="r1dn8od1" dur="1"/>
+                           <mRest xml:id="r1dn8od1" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="szoq8cp" n="7">
                         <layer xml:id="lsv4690" n="1">
-                           <rest xml:id="rth32k" dur="1"/>
+                           <mRest xml:id="rth32k" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="smo5zkl" n="8">
                         <layer xml:id="l2mhn2q" n="1">
-                           <rest xml:id="r101jicl" dur="1"/>
+                           <mRest xml:id="r101jicl" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="st81mbj" n="9">
                         <layer xml:id="ly3xi53" n="1">
-                           <rest xml:id="rw3x2um" dur="1"/>
+                           <mRest xml:id="rw3x2um" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1lwj3eh" n="10">
                         <layer xml:id="l1x1vy6w" n="1">
-                           <rest xml:id="r1hhlo6k" dur="1"/>
+                           <mRest xml:id="r1hhlo6k" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1y2iqhm" n="11">
                         <layer xml:id="l1xjggz0" n="1">
-                           <rest xml:id="r10a4ou9" dur="1"/>
+                           <mRest xml:id="r10a4ou9" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s156qbas" n="12">
@@ -1001,22 +1001,22 @@
                      </staff>
                      <staff xml:id="s1af32cq" n="13">
                         <layer xml:id="l1suclcy" n="1">
-                           <rest xml:id="rh8hnw9" dur="1"/>
+                           <mRest xml:id="rh8hnw9" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s8a1zua" n="14">
                         <layer xml:id="l328zqd" n="1">
-                           <rest xml:id="r1vcqfc4" dur="1"/>
+                           <mRest xml:id="r1vcqfc4" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s9tvpmd" n="15">
                         <layer xml:id="lyhgrb2" n="1">
-                           <rest xml:id="r1m6hhyf" dur="1"/>
+                           <mRest xml:id="r1m6hhyf" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1ir4bge" n="16">
                         <layer xml:id="l171zrk" n="2">
-                           <rest xml:id="r144u1t4" dur="1"/>
+                           <mRest xml:id="r144u1t4" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sn6990e" n="17">
@@ -1032,37 +1032,37 @@
                      </staff>
                      <staff xml:id="s13vjw6g" n="18">
                         <layer xml:id="lh4041t" n="1">
-                           <rest xml:id="r8y0fn5" dur="1"/>
+                           <mRest xml:id="r8y0fn5" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="suxg3ag" n="19">
                         <layer xml:id="lb393vx" n="2">
-                           <rest xml:id="r1rhf3tu" dur="1"/>
+                           <mRest xml:id="r1rhf3tu" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="swos65s" n="20">
                         <layer xml:id="la3nkuo" n="1">
-                           <rest xml:id="r10stca6" dur="1"/>
+                           <mRest xml:id="r10stca6" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1t1arie" n="21">
                         <layer xml:id="l1uqjbz3" n="1">
-                           <rest xml:id="rl3ndpm" dur="1"/>
+                           <mRest xml:id="rl3ndpm" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1l2z5w1" n="22">
                         <layer xml:id="la607q0" n="1">
-                           <rest xml:id="rqat01e" dur="1"/>
+                           <mRest xml:id="rqat01e" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1suk5j0" n="23">
                         <layer xml:id="l1g36uh4" n="1">
-                           <rest xml:id="r1vspvrg" dur="1"/>
+                           <mRest xml:id="r1vspvrg" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s15kgnsg" n="24">
                         <layer xml:id="lzznlog" n="1">
-                           <rest xml:id="rqpx9uo" dur="1"/>
+                           <mRest xml:id="rqpx9uo" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sboyenr" n="25">
