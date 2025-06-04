@@ -322,17 +322,17 @@
                   <measure xml:id="mbakr6j" facs="#zone_01JM4K7M5A45YCKM8NPEFHVAF7" n="166">
                      <staff xml:id="sy6h103" n="1">
                         <layer xml:id="lh5e346" n="1">
-                           <mRest xml:id="r1btc5cl"/>
+                           <mRest xml:id="r1btc5cl" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="saco1vi" n="2">
                         <layer xml:id="luckab" n="1">
-                           <mRest xml:id="r1ttmb7b"/>
+                           <mRest xml:id="r1ttmb7b" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s2xp6h4" n="3">
                         <layer xml:id="l1wysvcc" n="1">
-                           <mRest xml:id="r1hbh23d"/>
+                           <mRest xml:id="r1hbh23d" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="stmflgf" n="4">
