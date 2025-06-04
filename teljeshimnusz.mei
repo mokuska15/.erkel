@@ -599,7 +599,7 @@
                      </staff>
                      <staff xml:id="s1aph5ra" n="11">
                         <layer xml:id="lsy2r58" n="1">
-                           <mRrest xml:id="ruz0wo0" cutout="cutout"/>
+                           <mRest xml:id="ruz0wo0" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s19c1cvo" n="12">
@@ -752,7 +752,7 @@
                      </staff>
                      <staff xml:id="s1klhlub" n="2">
                         <layer xml:id="l2lss32" n="1">
-                           <mRrest xml:id="r15t4vj8" cutout="cutout"/>
+                           <mRest xml:id="r15t4vj8" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1kr00i8" n="3">
