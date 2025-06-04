@@ -372,7 +372,7 @@
                      </staff>
                      <staff xml:id="s8ubnny" n="11">
                         <layer xml:id="lccrpls" n="1">
-                           <mRest xml:id="r1bgjsj0" cutout="cutout"/>
+                           <mRest xml:id="r1bgjsj0"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1ierf69" n="12">
