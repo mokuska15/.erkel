@@ -416,7 +416,7 @@
                      </staff>
                      <staff xml:id="sb17rq" n="18">
                         <layer xml:id="loah9fj" n="1">
-                           <rest xml:id="r1cfboi4" dur="1"/>
+                           <mRest xml:id="r1cfboi4" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1ermrcz" n="19">
