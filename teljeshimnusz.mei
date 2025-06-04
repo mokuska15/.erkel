@@ -1288,7 +1288,7 @@
                      </staff>
                      <staff xml:id="smlx9fs" n="25" visible="true">
                         <layer xml:id="l1pntpdw" n="1">
-                           <rest xml:id="r1vgaald" dur="1"/>
+                           <mRest xml:id="r1vgaald" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s5pi0wv" n="26" visible="true">
@@ -1298,17 +1298,17 @@
                      </staff>
                      <staff xml:id="s2ogl9" n="27" visible="true">
                         <layer xml:id="l1wo7y22" n="1">
-                           <rest xml:id="rx4l6rt" dur="1"/>
+                           <mRest xml:id="rx4l6rt" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s5570pe" n="28" visible="true">
                         <layer xml:id="l171hnz" n="1">
-                           <rest xml:id="rjzvuam" dur="1"/>
+                           <mRest xml:id="rjzvuam" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s9tzook" n="29" visible="true">
                         <layer xml:id="lfy4yrg" n="1">
-                           <rest xml:id="r1rzpbun" dur="1"/>
+                           <mRest xml:id="r1rzpbun" cutout="cutout"/>
                         </layer>
                      </staff>
                      <dir xml:id="dti3953" staff="1" tstamp="0.0039" type="segno">
