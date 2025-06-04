@@ -1183,7 +1183,7 @@
                      </staff>
                      <staff xml:id="svnskmr" n="6" visible="true">
                         <layer xml:id="lmw0oyf" n="1">
-                           <rest xml:id="r1bu3f5t" dur="1"/>
+                           <mRest xml:id="r1bu3f5t" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="srf3kug" n="21" visible="true">
