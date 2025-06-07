@@ -1646,7 +1646,7 @@
                      </staff>
                      <staff xml:id="s1brbiwc" n="2">
                         <layer xml:id="lxoxxww" n="1">
-                           <rest xml:id="rax9eje" dur="1"/>
+                           <mRrest xml:id="rax9eje" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="sgj04zy" n="3">
