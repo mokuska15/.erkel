@@ -1293,7 +1293,7 @@
                      </staff>
                      <staff xml:id="s5pi0wv" n="26" visible="true">
                         <layer xml:id="l1aa16k0" n="1">
-                           <rest xml:id="r1iksqld" dur="1"/>
+                           <mRest xml:id="r1iksqld" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s2ogl9" n="27" visible="true">
