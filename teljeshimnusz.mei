@@ -1641,7 +1641,7 @@
                   <measure xml:id="m14wymer" facs="#zone_01JN1J8W54VKB9KW72MQ2VNKRK" n="172">
                      <staff xml:id="s1wzhfch" n="1">
                         <layer xml:id="l1yhly0t" n="1">
-                           <rest xml:id="r1hqqqjr" dur="1"/>
+                           <mRest xml:id="r1hqqqjr" cutout="cutout"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1brbiwc" n="2">
