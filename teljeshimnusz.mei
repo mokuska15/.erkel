@@ -2462,7 +2462,7 @@
                      <slur xml:id="s133f19x" color="#000000" curvedir="below" endid="#n1t8q2z9" startid="#n4xsdx9"/>
                      <slur xml:id="s19gn366" color="#000000" curvedir="above" endid="#nrq0pjj" startid="#n1iwwsx6"/>
                      <dir xml:id="djqndnv" staff="22" tstamp="1" vgrp="1030">
-                        <rend xml:id="r1esjzjq" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
+                        <rend xml:id="r1esjzjq" fontfam="Minion Pro" fontstyle="normal" fontweight="normal"> </rend>
                      </dir>
                   </measure>
                   <measure xml:id="m1s7n4gb" facs="#zone_01JN1J8W55XN9JGGNQVJ66EKMS" n="175">
@@ -3755,7 +3755,7 @@
                         <rend xml:id="r1grrdx6" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">f</rend>
                      </dynam>
                      <dir xml:id="dxsvj4g" staff="22" tstamp="1" vgrp="1030">
-                        <rend xml:id="rnxdf8" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
+                        <rend xml:id="rnxdf8" fontfam="Minion Pro" fontstyle="normal" fontweight="normal"> </rend>
                      </dir>
                      <dynam xml:id="d119ca9w" staff="22" tstamp="1" vgrp="2150">
                         <rend xml:id="r1osvgkn" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">f</rend>
@@ -5379,7 +5379,7 @@
                         <rend xml:id="r1thyu2q" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">fff</rend>
                      </dynam>
                      <dir xml:id="d1fcy1z5" staff="22" tstamp="1" vgrp="1030">
-                        <rend xml:id="r15vb5gf" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
+                        <rend xml:id="r15vb5gf" fontfam="Minion Pro" fontstyle="normal" fontweight="normal"> </rend>
                      </dir>
                      <dynam xml:id="d1kccm1h" staff="25" tstamp="1" vgrp="700">
                         <rend xml:id="r1yaofd5" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">fff</rend>
@@ -7077,7 +7077,7 @@
                         <rend xml:id="r2rmnds" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">fff</rend>
                      </dynam>
                      <dir xml:id="d171qd5u" staff="22" tstamp="1" vgrp="100">
-                        <rend xml:id="r1ysse35" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
+                        <rend xml:id="r1ysse35" fontfam="Minion Pro" fontstyle="normal" fontweight="normal"> </rend>
                      </dir>
                      <dynam xml:id="d1n76mxq" staff="25" tstamp="1" vgrp="700">
                         <rend xml:id="r1glc3bl" color="#000000" fontfam="Wolfgang Text Std" fontstyle="normal" fontweight="normal">fff</rend>
@@ -8503,7 +8503,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="d1wu8r9r" staff="22" tstamp="1" vgrp="1030">
-                        <rend xml:id="r78d35l" fontfam="Minion Pro" fontstyle="normal" fontweight="normal">Coro</rend>
+                        <rend xml:id="r78d35l" fontfam="Minion Pro" fontstyle="normal" fontweight="normal"> </rend>
                      </dir>
                      <slur xml:id="smhutt" color="#000000" curvedir="below" endid="#n9mcan9" startid="#noowmeo"/>
                      <slur xml:id="snp6id6" color="#000000" curvedir="below" endid="#n14ha2n2" startid="#nwz0frp"/>
