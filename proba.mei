@@ -15,7 +15,7 @@
                <name xml:id="nf2hgff">Verovio</name>
                <p xml:id="p36qc7b">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="af3vm101" enddate="2025-06-07T23:23:51" startdate="2025-02-26T17:49:24" version="1.2.5">
+            <application xml:id="af3vm101" enddate="2025-06-10T21:32:39" startdate="2025-02-26T17:49:24" version="1.2.5">
                <name xml:id="nz5ogob1">mei-friend</name>
                <p xml:id="pypoene">First edit by mei-friend 1.2.2, 20 February 2025.</p>
             </application>
@@ -1137,7 +1137,7 @@
                      <slur color="#000000" curvedir="below" endid="#n1y4a7kl" startid="#n1ktuz2q"/>
                      <slur color="#000000" curvedir="below" endid="#n1za42b" startid="#novu7xd"/>
                   </measure>
-                  <pb facs="#surface_01JN1J8W542GSYRT3FB7X3KZK4"/>
+                  <pb/>
                   <measure facs="#zone_01JN1J8W542GSYRT3FB7X3KZK4" n="170">
                      <staff n="3"  >
                         <layer n="1">
@@ -6872,13 +6872,12 @@
                         <layer n="1">
                            <mRest dur="1"/>
                         </layer>
-                    </staff>
+                     </staff>
                      <staff n="17"  >
                         <layer n="1">
                            <mRest dur="1"/>
                         </layer>
                      </staff>
-
                      <staff n="21"  >
                         <layer n="1">
                            <note accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="a" stem.dir="down">
