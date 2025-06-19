@@ -173,8 +173,8 @@
                            <keySig cancelaccid="before" mode="major" sig="0"/>
                            <meterSig count="4" sym="common" unit="4"/>
                         </staffDef>
-                        <app>
-                        <lem source="change">
+                
+                       
                         <staffDef lines="1" n="13" ppq="256">
                            <label>Gran Cassa e Piatti</label>
                            <labelAbbr>Gr. C e Ptti</labelAbbr>
@@ -182,11 +182,8 @@
                            <keySig cancelaccid="before" mode="major" sig="0"/>
                            <meterSig count="4" sym="common" unit="4"/>
                         </staffDef>
-                        </lem>
-                      <rdg source="original">
-                     <staffDef lines="0" n="2"/>
-                         </rdg>
-                        </app>
+               
+                
                         <staffDef lines="5" n="14" ppq="256" scale="86%" trans.diat="14" trans.semi="24">
                            <label>Campana in Re</label>
                            <labelAbbr>Camp</labelAbbr>
@@ -382,12 +379,17 @@
                            </note>
                         </layer>
                      </staff>
+<app>
+<lem>
                      <staff n="13">
                         <layer n="1">
                            <mRest cutout="cutout"/>
                         </layer>
                      </staff>
+</lem>
 
+<rdg></rdg>
+</app>
                      <staff n="14">
                         <layer n="1">
                            <mRest cutout="cutout"/>
@@ -609,11 +611,17 @@
                            </note>
                         </layer>
                      </staff>
+  <app>
+<lem>
                      <staff n="13">
                         <layer n="1">
                            <mRest cutout="cutout"/>
                         </layer>
                      </staff>
+</lem>
+
+<rdg></rdg>
+</app>
                      <staff n="14">
                         <layer n="1">
                            <mRest cutout="cutout"/>
@@ -810,11 +818,17 @@
                            </note>
                         </layer>
                      </staff>
+<app>
+<lem>
                      <staff n="13">
                         <layer n="1">
                            <mRest cutout="cutout"/>
                         </layer>
                      </staff>
+</lem>
+
+<rdg></rdg>
+</app>
                      <staff n="14">
                         <layer n="1">
                            <mRest cutout="cutout"/>
@@ -999,11 +1013,17 @@
                            </note>
                         </layer>
                      </staff>
+<app>
+<lem>
                      <staff n="13">
                         <layer n="1">
                            <mRest cutout="cutout"/>
                         </layer>
                      </staff>
+</lem>
+
+<rdg></rdg>
+</app>
                      <staff n="14">
                         <layer n="1">
                            <mRest cutout="cutout"/>
