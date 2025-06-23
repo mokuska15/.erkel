@@ -7223,10 +7223,10 @@
                      </staff>
                      <staff xml:id="sonp2cn" n="10" visible="true">
                         <layer xml:id="lj30kjq" n="1">
-                           <note xml:id="n1ihms3p" color="#000000" dur="2" pname="e" stem.dir="down">
+                           <note xml:id="n1ihms3p" color="#000000" dur="2" loc="5" stem.dir="down">
                               <accid xml:id="a17zisa7" accid="f"/>
                            </note>
-                           <note xml:id="n1f61t81" color="#000000" dur="2" pname="e" stem.dir="down">
+                           <note xml:id="n1f61t81" color="#000000" dur="2" loc="5" stem.dir="down">
                               <accid xml:id="a1gratyt" accid="f"/>
                            </note>
                         </layer>
