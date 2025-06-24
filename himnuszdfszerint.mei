@@ -7686,44 +7686,44 @@
                      <hairpin xml:id="h15sqby2" color="#000000" form="cres" staff="4" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
                      <hairpin xml:id="hy16r8g" color="#000000" form="dim" staff="4" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
                      <fermata xml:id="f1uojucx" shape="curved" staff="4" startid="#c16vzi9j"/>
-                     <hairpin xml:id="h15tb6n2" color="#000000" form="cres" staff="6" tstamp="3" tstamp2="0m+3.7656" vgrp="2350"/>
-                     <hairpin xml:id="h9zwv36" color="#000000" form="dim" staff="6" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="2350"/>
+                     <hairpin xml:id="h15tb6n2" color="#000000" form="cres" staff="5" tstamp="3" tstamp2="0m+3.7656" vgrp="2350"/>
+                     <hairpin xml:id="h9zwv36" color="#000000" form="dim" staff="5" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="2350"/>
                      <fermata xml:id="f1a0v6bt" shape="curved" staff="6" startid="#n1ck8iks"/>
                      <hairpin xml:id="h155jujh" color="#000000" form="cres" staff="6" tstamp="1" tstamp2="0m+2.5" vgrp="800"/>
                      <hairpin xml:id="h6031hl" color="#000000" form="dim" staff="6" tstamp="2.75" tstamp2="0m+4.9609" vgrp="800"/>
                      <fermata xml:id="f1wddpo4" shape="curved" staff="6" startid="#nxmqze2"/>
                      <fermata xml:id="f22o2ko" shape="curved" staff="12" startid="#n1fj2by2"/>
-                     <trill xml:id="tu29ng7" staff="12" startid="#n1fj2by2"/>
-                     <hairpin xml:id="h18pgeof" color="#000000" form="cres" staff="12" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
-                     <hairpin xml:id="hb35g4t" color="#000000" form="dim" staff="12" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
-                     <hairpin xml:id="h1oxw08m" color="#000000" form="cres" staff="17" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
-                     <hairpin xml:id="h15a1und" color="#000000" form="dim" staff="17" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
+                     <trill xml:id="tu29ng7" staff="9" startid="#n1fj2by2"/>
+                     <hairpin xml:id="h18pgeof" color="#000000" form="cres" staff="9" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
+                     <hairpin xml:id="hb35g4t" color="#000000" form="dim" staff="9" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
+                     <hairpin xml:id="h1oxw08m" color="#000000" form="cres" staff="10" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
+                     <hairpin xml:id="h15a1und" color="#000000" form="dim" staff="10" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
                      <fermata xml:id="f1ulhboi" shape="curved" staff="17" startid="#n1eqlfeu"/>
                      <slur xml:id="s1vrl18r" color="#000000" curvedir="below" endid="#nmcdh1k" startid="#n1yzj4h4"/>
                      <slur xml:id="sdi23ds" color="#000000" curvedir="below" endid="#n184vnsp" startid="#nipvy6b"/>
                      <slur xml:id="s1jhi2qw" color="#000000" curvedir="below" endid="#npzd8bg" startid="#nipvy6b"/>
-                     <hairpin xml:id="hh2p4ui" color="#000000" form="cres" staff="25" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
-                     <hairpin xml:id="h1fost5o" color="#000000" form="dim" staff="25" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
-                     <fermata xml:id="f98luqu" shape="curved" staff="25" startid="#nqq00s"/>
+                     <hairpin xml:id="hh2p4ui" color="#000000" form="cres" staff="15" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
+                     <hairpin xml:id="h1fost5o" color="#000000" form="dim" staff="15" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
+                     <fermata xml:id="f98luqu" shape="curved" staff="15" startid="#nqq00s"/>
                      <slur xml:id="s1uwdp6u" color="#000000" curvedir="below" endid="#n66s0r4" startid="#n1o0fae8"/>
                      <slur xml:id="swle6y4" color="#000000" curvedir="below" endid="#n18mqb94" startid="#n1wbne5h"/>
-                     <hairpin xml:id="h1lgzc3r" color="#000000" form="cres" staff="26" tstamp="3" tstamp2="0m+3.7656" vgrp="660"/>
-                     <hairpin xml:id="h1f67avn" color="#000000" form="dim" staff="26" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="660"/>
-                     <fermata xml:id="fmy1n9m" shape="curved" staff="26" startid="#n1fofemx"/>
+                     <hairpin xml:id="h1lgzc3r" color="#000000" form="cres" staff="16" tstamp="3" tstamp2="0m+3.7656" vgrp="660"/>
+                     <hairpin xml:id="h1f67avn" color="#000000" form="dim" staff="16" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="660"/>
+                     <fermata xml:id="fmy1n9m" shape="curved" staff="16" startid="#n1fofemx"/>
                      <slur xml:id="s1qlxyrd" color="#000000" curvedir="below" endid="#n1kqvkzo" startid="#nw2xgax"/>
                      <slur xml:id="s1cijasw" color="#000000" curvedir="below" endid="#nherunl" startid="#ny1ywdz"/>
-                     <hairpin xml:id="hnbdw9u" color="#000000" form="cres" staff="27" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
-                     <hairpin xml:id="hjjf4e1" color="#000000" form="dim" staff="27" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
-                     <fermata xml:id="fb4wvmc" shape="curved" staff="27" startid="#n1y1dmnt"/>
-                     <fermata xml:id="fzz3dpb" shape="curved" staff="28" startid="#ndwwixx"/>
-                     <hairpin xml:id="h1eqnfqa" color="#000000" form="cres" staff="28" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
-                     <hairpin xml:id="h1fz2jfo" color="#000000" form="dim" staff="28" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
+                     <hairpin xml:id="hnbdw9u" color="#000000" form="cres" staff="17" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
+                     <hairpin xml:id="hjjf4e1" color="#000000" form="dim" staff="17" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
+                     <fermata xml:id="fb4wvmc" shape="curved" staff="17" startid="#n1y1dmnt"/>
+                     <fermata xml:id="fzz3dpb" shape="curved" staff="18" startid="#ndwwixx"/>
+                     <hairpin xml:id="h1eqnfqa" color="#000000" form="cres" staff="18" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
+                     <hairpin xml:id="h1fz2jfo" color="#000000" form="dim" staff="18" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
                      <dir xml:id="d1olh81c" staff="29" tstamp="2.25" type="dacapo" vgrp="1100">
                         <rend xml:id="rhtcgv2" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">Da Capo dal Segno al Fine</rend>
                      </dir>
-                     <fermata xml:id="f1vx1kta" shape="curved" staff="29" startid="#n1kj01d8"/>
-                     <hairpin xml:id="hh8o08m" color="#000000" form="cres" staff="29" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
-                     <hairpin xml:id="h142a0gv" color="#000000" form="dim" staff="29" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
+                     <fermata xml:id="f1vx1kta" shape="curved" staff="19" startid="#n1kj01d8"/>
+                     <hairpin xml:id="hh8o08m" color="#000000" form="cres" staff="19" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
+                     <hairpin xml:id="h142a0gv" color="#000000" form="dim" staff="19" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
                   </measure>
                </section>
             </score>
