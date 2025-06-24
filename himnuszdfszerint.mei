@@ -509,7 +509,7 @@
                         <staffDef xml:id="S2_6" n="6" lines="5" ppq="256">
                            <label xml:id="l9zrmr9erf0">T</label>
                            <labelAbbr xml:id="lqrxherfgy">T</labelAbbr>
-                           <clef xml:id="chudverr7h" shape="G" color="#000000" line="2" />
+                           <clef xml:id="chudverr7h" shape="G" color="#000000" clef.dis="8" clef.dis.place="below" line="2" />
                            <keySig xml:id="kci8reram8" mode="major" sig="3f" cancelaccid="before" />
                            <meterSig xml:id="m1nrratcjh" count="4" sym="common" unit="4" />
                         </staffDef>
@@ -1499,7 +1499,7 @@
                         <staffDef xml:id="S3_7" n="7" lines="5" ppq="256">
                            <label xml:id="l9zrmerf0">T</label>
                            <labelAbbr xml:id="lqrxfgy">T</labelAbbr>
-                           <clef xml:id="chud" shape="G" color="#000000" line="2" />
+                           <clef xml:id="chud" shape="G" clef.dis="8" clef.dis.place="below" color="#000000" line="2" />
                            <keySig xml:id="kceram8" mode="major" sig="3f" cancelaccid="before" />
                            <meterSig xml:id="m1atcjh" count="4" sym="common" unit="4" />
                         </staffDef>
@@ -2563,7 +2563,7 @@
                         <staffDef xml:id="P__4" n="12" lines="5" ppq="256">
                            <label xml:id="l1ab3">T</label>
                            <labelAbbr xml:id="l1acy">T</labelAbbr>
-                           <clef xml:id="c13r2q" shape="G" color="#000000" line="2" />
+                           <clef xml:id="c13r2q" shape="G" clef.dis="8" clef.dis.place="below" color="#000000" line="2" />
                            <keySig xml:id="kmknl" mode="major" sig="3f" cancelaccid="before" />
                            <meterSig xml:id="m35h" count="4" sym="common" unit="4" />
                         </staffDef>
@@ -5720,7 +5720,7 @@
                         <staffDef xml:id="P__5" n="13" lines="5" ppq="256">
                            <label xml:id="l1ab553533">T</label>
                            <labelAbbr xml:id="ld04c3">T</labelAbbr>
-                           <clef xml:id="c1e2q" shape="G" color="#000000" line="2" />
+                           <clef xml:id="c1e2q" shape="G" clef.dis="8" clef.dis.place="below" color="#000000" line="2" />
                            <keySig xml:id="kenl" mode="major" sig="3f" cancelaccid="before" />
                            <meterSig xml:id="mfeh" count="4" sym="common" unit="4" />
                         </staffDef>
