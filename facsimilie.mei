@@ -72,6 +72,7 @@
             <score xml:id="s1aeoar1">
                <scoreDef xml:id="s1as4qsc">
                   <staffGrp xml:id="s181q8ex">
+                     <staffGrp>
                         <staffDef xml:id="P1" lines="5" n="1" ppq="256">
                            <label xml:id="l1t3xu76">Flauto</label>
                            <labelAbbr xml:id="ldtmftm">Fl</labelAbbr>
@@ -166,8 +167,6 @@
                            <meterSig xml:id="mq9uo3w" count="4" sym="common" unit="4"/>
                         </staffDef>
                     </staffGrp>
-                        <app xml:id="aqjpc3i2">
-                        <lem xml:id="l5erfe41" source="change">
                         <staffDef xml:id="P13" lines="5" n="13" ppq="256">
                            <label xml:id="lumqy6e">Es Tamtam</label>
                            <labelAbbr xml:id="l1j9oa3l"></labelAbbr>
@@ -175,11 +174,6 @@
                            <keySig xml:id="k1y7cumr" cancelaccid="before" mode="major" sig="0"/>
                            <meterSig xml:id="m1dkr674" count="4" sym="common" unit="4"/>
                         </staffDef>
-                        </lem>
-                      <rdg xml:id="rjrkwq2" source="original">
-                     <staffDef xml:id="sbkpj4y1" lines="0" n="2"/>
-                         </rdg>
-                        </app>
                   <staffGrp xml:id="sckzay5">
                      <label xml:id="lyee3u">Violini</label>
                            <grpSym xml:id="gqa2qit" symbol="line"/>
@@ -222,24 +216,20 @@
                               <meterSig xml:id="m1go1715" count="4" sym="common" unit="4"/>
                            </staffDef>
                        </staffGrp>
-                        <StaffGrp xml:id="g9rrru">
-                           <grpSym xml:id="g9u" symbol="brace"/>
-                           <label xml:id="l10mz">Orgue</label>
-                           <labelAbbr xml:id="l6c">orgue</labelAbbr>
                            <staffDef xml:id="s173oqgf" lines="5" n="19" ppq="256">
                               <clef xml:id="c1rt2vh4" color="#000000" line="4" shape="F"/>
                               <keySig xml:id="k2l29" cancelaccid="before" mode="major" sig="3f"/>
                               <meterSig xml:id="md9va5c" count="4" sym="common" unit="4"/>
                            </staffDef>
                      <staffDef xml:id="P20" lines="5" n="20" ppq="256">
-                        <label xml:id="l3nah0k"></label>
-                        <labelAbbr xml:id="l3bjq1z"></labelAbbr>
+                        <label xml:id="l10mz">Orgue</label>
+                           <labelAbbr xml:id="l6c">orgue</labelAbbr>
                         <clef xml:id="c131ogob" color="#000000" line="2" shape="G"/>
                         <keySig xml:id="k1hehm81" cancelaccid="before" mode="major" sig="3f"/>
                         <meterSig xml:id="m19fa2cj" count="4" sym="common" unit="4"/>
                      </staffDef>
-                     </StaffGrp>
               </staffGrp>
+                  </staffGrp>
               </scoreDef>
                <section xml:id="s1p5vb2u">
                   <pb xml:id="p184ocyq" facs="#surface_01JN1J8W57SG8BFBEZFW7NN4F6"/>
@@ -1040,21 +1030,40 @@
                            <mRest xml:id="rjzvuam" cutout="cutout"/>
                         </layer>
                      </staff>
+                     <staff xml:id="s1148ge" n="17">
+                        <layer xml:id="lj842v" n="1">
+                           <rest xml:id="r42mwi" dur="1"/>
+                        </layer>
+                     </staff>
                      <staff xml:id="s9tzook" n="18" visible="true">
                         <layer xml:id="lfy4yrg" n="1">
                            <mRest xml:id="r1rzpbun" cutout="cutout"/>
                         </layer>
                      </staff>
-                     <staff xml:id="sok" n="19" visible="true">
-                        <layer xml:id="t7868" n="1">
-                           <chord>
-                           <note pname="e" dur="4" dot=""></note>
+                      <staff xml:id="s1ii" n="19" visible="true">
+                        <layer xml:id="ljqqy" n="1">
+                           <chord xml:id="c28g" dots="1" dur="4" stem.dir="down">
+                              <note xml:id="naaw" accid.ges="f" color="#000000" oct="3" pname="e"/>
+                              <note xml:id="n1qc7" color="#000000" oct="3" pname="g"/>
+                           </chord>
+                           <chord xml:id="c1417hnvs" dur="8" stem.dir="down">
+                              <note xml:id="n1rn" color="#000000" oct="3" pname="f"/>
+                              <note xml:id="n1kev" accid.ges="f" color="#000000" oct="3" pname="a"/>
+                           </chord>
+                           <chord xml:id="c1gl7" dur="8" stem.dir="down">
+                              <note xml:id="n1u1xw" color="#000000" oct="3" pname="g"/>
+                              <note xml:id="n8k3b" accid.ges="f" color="#000000" oct="3" pname="b"/>
+                           </chord>
+                           <chord xml:id="c1fyvqv" dots="1" dur="4" stem.dir="down">
+                              <artic xml:id="akrelzk" artic="acc"/>
+                              <note xml:id="n1rp" color="#000000" oct="3" pname="g"/>
+                              <note xml:id="ngj0" accid.ges="f" color="#000000" oct="4" pname="e"/>
                            </chord>
                         </layer>
                      </staff>
                      <staff xml:id="s99kok" n="20" visible="true">
                         <layer xml:id="lf99yrg" n="1">
-                           <mRest xml:id="r1űun" cutout="cutout"/>
+                           <mRest xml:id="r1hbn" cutout="cutout"/>
                         </layer>
                      </staff>
                      <dir xml:id="dti3953" staff="1" tstamp="0.0039" type="segno">
@@ -1282,7 +1291,7 @@
                            <note xml:id="n1hx0woy" accid.ges="f" color="#000000" dur="2" oct="3" pname="e" stem.dir="down"/>
                         </layer>
                      </staff>
-                         <staff xml:id="s1jjf" n="18">
+  <staff xml:id="s1jjf" n="19">
   <layer xml:id="l1l3" n="1">
     <beam xml:id="b14241">
       <chord>
@@ -1314,23 +1323,22 @@
     </beam>
   </layer>
 </staff>
-
-                      <staff xml:id="lk20g00" n="20">
-                        <layer xml:id="ln2012" n="1">
-                           <chord>
-                           <note xml:id="nc7303ark" accid.ges="f" color="#000000" dur="4" oct="2" pname="b" stem.dir="up"/>
-                              <note xml:id="nc7304ark" accid.ges="f" color="#000000" dur="4" oct="1" pname="b" stem.dir="up"/>
-                           </chord>
-                           <chord>
-                           <note xml:id="n1a23" color="#000000" dur="4" oct="3" pname="d" stem.dir="down"/>
-                           <note xml:id="n1a233q" color="#000000" dur="4" oct="2" pname="d" stem.dir="down"/>
-                           </chord>
-                              <chord>
-                           <note xml:id="n1oy" accid.ges="f" color="#000000" dur="4" oct="3" pname="e" stem.dir="down"/>
-                                 <note xml:id="n53y" accid.ges="f" color="#000000" dur="2" oct="2" pname="e" stem.dir="down"/>
-                        	</chord>
-                         </layer>
-                     </staff>
+   <staff xml:id="lk20g00" n="20">
+  <layer xml:id="ln2012" n="1">
+ <chord>
+  <note xml:id="nc7303ark" accid.ges="f" color="#000000" dur="4" oct="2" pname="b" stem.dir="up"/>
+  <note xml:id="nc7304ark" accid.ges="f" color="#000000" dur="4" oct="1" pname="b" stem.dir="up"/>
+ </chord>
+<chord>
+<note xml:id="n1a23" color="#000000" dur="4" oct="3" pname="d" stem.dir="down"/>
+ <note xml:id="n1a233q" color="#000000" dur="4" oct="2" pname="d" stem.dir="down"/>
+</chord>
+ <chord>
+<note xml:id="n1oy" accid.ges="f" color="#000000" dur="4" oct="3" pname="e" stem.dir="down"/>
+ <note xml:id="n53y" accid.ges="f" color="#000000" dur="2" oct="2" pname="e" stem.dir="down"/>
+ </chord>
+</layer>
+ </staff>
                      <slur xml:id="smfkve8" color="#000000" curvedir="below" endid="#n10xgbzb" startid="#n17cc4dv"/>
                      <slur xml:id="s10j9bgx" color="#000000" curvedir="below" endid="#nu4cf9a" startid="#n1v8ab8t"/>
                      <slur xml:id="srx5oe7" color="#000000" curvedir="above" endid="#n1fkcoqv" startid="#nghk2h1"/>
@@ -1477,7 +1485,12 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="s1xmfnkp" n="13">
+                     <staff xml:id="s1ns8ge" n="13">
+                        <layer xml:id="lj8av" n="1">
+                           <rest xml:id="rmwi" dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1xmfnkp" n="14">
                         <layer xml:id="l1r2lqoa" n="1">
                            <beam xml:id="blxefzv">
                               <note xml:id="n1m20e7r" color="#000000" dots="1" dur="8" oct="5" pname="c" stem.dir="down"/>
@@ -1497,7 +1510,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="s1gdjrl2" n="14">
+                     <staff xml:id="s1gdjrl2" n="15">
                         <layer xml:id="ll8wymq" n="1">
                            <beam xml:id="bjr47nz">
                               <note xml:id="ngrk9sa" accid.ges="f" color="#000000" dots="1" dur="8" oct="4" pname="a" stem.dir="up"/>
@@ -1519,7 +1532,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="s1lsl6o9" n="15">
+                     <staff xml:id="s1lsl6o9" n="16">
                         <layer xml:id="l8r8tqj" n="1">
                            <beam xml:id="bbkn3rx">
                               <note xml:id="n183mwrp" color="#000000" dots="1" dur="8" oct="4" pname="c" stem.dir="down"/>
@@ -1541,23 +1554,16 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="slg75n9" n="16">
+                     <staff xml:id="s18ge" n="17">
+                        <layer xml:id="lj8vav" n="1">
+                           <mRest xml:id="ri7iwi" dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="slg75n9" n="18">
                         <layer xml:id="l1laojcc" n="1">
                            <note xml:id="nwvjluf" accid.ges="f" color="#000000" dur="4" oct="2" pname="a" stem.dir="up"/>
                            <note xml:id="n1klta40" accid.ges="f" color="#000000" dur="4" oct="2" pname="b" stem.dir="up"/>
                            <note xml:id="n1jj14vq" color="#000000" dur="2" oct="3" pname="c" stem.dir="up"/>
-                        </layer>
-                     </staff>
-                     <staff xml:id="slr5n9" n="17">
-                     <layer xml:id="fnunu" n="1">
-                        <mRest></mRest>
-                        </layer>
-                     </staff>
-                     <staff xml:id="sa2ah7h" n="18">
-                        <layer xml:id="l1pdq1vs" n="1">
-                           <note xml:id="nabmrzm" accid.ges="f" color="#000000" dur="4" oct="2" pname="a" stem.dir="up"/>
-                           <note xml:id="n1o6pv20" accid.ges="f" color="#000000" dur="4" oct="2" pname="b" stem.dir="up"/>
-                           <note xml:id="noz41md" color="#000000" dur="2" oct="3" pname="c" stem.dir="up"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1lo9" n="19">
@@ -1581,6 +1587,22 @@
                               <note xml:id="nfn54" accid.ges="f" color="#000000" dur="16" oct="3" pname="a" stem.dir="up"/>
                            </beam>
                         </layer>
+                     </staff>
+                     <staff xml:id="lk200" n="20">
+                        <layer xml:id="ln102" n="1">
+                           <chord>
+                           <note xml:id="nc7ark" accid.ges="f" color="#000000" dur="4" oct="2" pname="b" stem.dir="up"/>
+                              <note xml:id="nrk" accid.ges="f" color="#000000" dur="4" oct="1" pname="b" stem.dir="up"/>
+                           </chord>
+                           <chord>
+                           <note xml:id="n13" color="#000000" dur="4" oct="3" pname="d" stem.dir="down"/>
+                           <note xml:id="n13q" color="#000000" dur="4" oct="2" pname="d" stem.dir="down"/>
+                           </chord>
+                              <chord>
+                           <note xml:id="n1oy7h" accid.ges="f" color="#000000" dur="4" oct="3" pname="e" stem.dir="down"/>
+                                 <note xml:id="n53gy" accid.ges="f" color="#000000" dur="2" oct="2" pname="e" stem.dir="down"/>
+                        	</chord>
+                         </layer>
                      </staff>
                      <slur xml:id="s1mwp7s2" color="#000000" curvedir="above" endid="#n1r4a8v4" startid="#n1x03ic8"/>
                      <slur xml:id="s1kubclb" color="#000000" curvedir="above" endid="#n1yw7pif" startid="#n14cnceh"/>
@@ -1716,7 +1738,12 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="sr6puwb" n="13">
+                     <staff xml:id="s8ge" n="13">
+                        <layer xml:id="ljbav" n="1">
+                           <rest xml:id="rwi" dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="sr6puwb" n="14">
                         <layer xml:id="l1pd0v26" n="1">
                            <note xml:id="n12jp777" color="#000000" dur="8" oct="4" pname="f" stem.dir="up"/>
                            <rest xml:id="r1vdefh1" dur="8"/>
@@ -1736,7 +1763,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="sn9atu4" n="14">
+                     <staff xml:id="sn9atu4" n="15">
                         <layer xml:id="ld3hgds" n="1">
                            <note xml:id="nzd39tv" color="#000000" dur="8" oct="4" pname="c" stem.dir="up"/>
                            <rest xml:id="rfj2x6m" dur="8"/>
@@ -1760,7 +1787,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="s1vvm5d1" n="15">
+                     <staff xml:id="s1vvm5d1" n="16">
                         <layer xml:id="l15k356f" n="1">
                            <note xml:id="ntnxd2m" accid.ges="f" color="#000000" dur="8" oct="3" pname="a" stem.dir="up"/>
                            <rest xml:id="r1mrf633" dur="8"/>
@@ -1769,7 +1796,12 @@
                            <note xml:id="n18j0zxa" color="#000000" dur="2" oct="4" pname="c" stem.dir="down"/>
                         </layer>
                      </staff>
-                     <staff xml:id="s9c630l" n="16">
+                     <staff xml:id="s1gjie" n="17">
+                        <layer xml:id="lj8vrv" n="1">
+                           <rest xml:id="rve34i" dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s9c630l" n="18">
                         <layer xml:id="l7uqya7" n="1">
                            <note xml:id="nqzoj7i" color="#000000" dur="8" oct="3" pname="f" stem.dir="down"/>
                            <rest xml:id="r1xj3sxd" dur="8"/>
@@ -1778,13 +1810,22 @@
                            <note xml:id="n6ve0rf" color="#000000" dur="2" oct="2" pname="f" stem.dir="up"/>
                         </layer>
                      </staff>
-                     <staff xml:id="svj82gs" n="17">
+                     <staff xml:id="svj82gs" n="19">
                         <layer xml:id="l1ks2znj" n="1">
                            <note xml:id="n14hmptn" color="#000000" dur="8" oct="3" pname="f" stem.dir="down"/>
                            <rest xml:id="r1ve8jd5" dur="8"/>
                            <note xml:id="n3n0xkq" color="#000000" dur="8" oct="3" pname="c" stem.dir="up"/>
                            <rest xml:id="rrs9ljs" dur="8"/>
                            <note xml:id="n1unqok7" color="#000000" dur="2" oct="2" pname="f" stem.dir="up"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="svjs" n="20">
+                        <layer xml:id="l1ks2zünj" n="1">
+                           <note xml:id="n14tn" color="#000000" dur="8" oct="3" pname="f" stem.dir="down"/>
+                           <rest xml:id="r1vjd5" dur="8"/>
+                           <note xml:id="n3kq" color="#000000" dur="8" oct="3" pname="c" stem.dir="up"/>
+                           <rest xml:id="rrljs" dur="8"/>
+                           <note xml:id="n1uqok7" color="#000000" dur="2" oct="2" pname="f" stem.dir="up"/>
                         </layer>
                      </staff>
                      <hairpin xml:id="h1xjetpl" color="#000000" form="cres" staff="3" tstamp="3" tstamp2="0m+3.5039" vgrp="550"/>
