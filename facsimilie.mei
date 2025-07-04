@@ -146,7 +146,7 @@
                               <staffDef xml:id="P10" lines="5" n="10" ppq="256">
                                  <label xml:id="l4m9yvq">Soprani</label>
                                  <labelAbbr xml:id="lbrwbae"></labelAbbr>
-                                 <clef xml:id="cgldxe8" color="#000000" line="4" shape="F"/>
+                                 <clef xml:id="cgldxe8" color="#000000" line="2" shape="G"/>
                                  <keySig xml:id="k1a1pkhl" cancelaccid="before" mode="major" sig="3f"/>
                                  <meterSig xml:id="m173mnqf" count="4" sym="common" unit="4"/>
                               </staffDef>
@@ -154,7 +154,7 @@
                            <staffDef xml:id="P11" lines="5" n="11" ppq="256">
                               <label xml:id="lf9ahs4">Tenori</label>
                               <labelAbbr xml:id="lq90p2m"></labelAbbr>
-                              <clef xml:id="c1cy1sxy" color="#000000" line="4" shape="F"/>
+                              <clef xml:id="c1cy1sxy" color="#000000" line="2" dis="8" shape="G"/>
                               <keySig xml:id="k1rscfaa" cancelaccid="before" mode="major" sig="3f"/>
                               <meterSig xml:id="m1cw14cm" count="4" sym="common" unit="4"/>
                            </staffDef>
@@ -934,127 +934,108 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="svnskmr" n="6" visible="true">
+                     <staff xml:id="svnskmr" n="5" visible="true">
                         <layer xml:id="lmw0oyf" n="1">
                            <mRest xml:id="r1bu3f5t" cutout="cutout"/>
                         </layer>
                      </staff>
-                     <staff xml:id="srf3kug" n="21" visible="true">
+                     <staff xml:id="svnmr" n="6" visible="true">
+                        <layer xml:id="lm6f" n="1">
+                           <mRest xml:id="r63f5t" cutout="cutout"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s6mr" n="7" visible="true">
+                        <layer xml:id="l6yf" n="1">
+                           <mRest xml:id="r65t" cutout="cutout"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="sv8mr" n="8" visible="true">
+                        <layer xml:id="l8yf" n="1">
+                           <mRest xml:id="r85t" cutout="cutout"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="sv9r" n="9" visible="true">
+                        <layer xml:id="l9f" n="1">
+                           <mRest xml:id="r195t" cutout="cutout"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="srf3kug" n="10" visible="true">
                         <layer xml:id="lfnyof8" n="1">
-                           <note xml:id="n9mgaq9" color="#000000" dots="1" dur="4" oct="4" pname="g" stem.dir="up">
+                           <chord>
+                           <note xml:id="n9mgaq9" color="#000000" dots="1" dur="4" oct="4" pname="b" stem.dir="up"/>
+                            <note xml:id="nuleqs1" accid.ges="f" color="#000000" dots="1" dur="4" oct="4" pname="g" stem.dir="up"/>
                               <verse xml:id="vw3g8vu" color="#000000" n="1">
                                  <syl xml:id="suy97il" con="d" wordpos="i">Is</syl>
                               </verse>
-                           </note>
-                           <note xml:id="n13y138n" accid.ges="f" color="#000000" dur="8" oct="4" pname="a" stem.dir="up">
+                         </chord>
+                              <chord>
+                           <note xml:id="n13y138n" accid.ges="f" color="#000000" dur="8" oct="5" pname="c" stem.dir="up"/>
+                           <note xml:id="n1efkp4h" color="#000000" dur="8" oct="4" pname="a" stem.dir="up"/>
                               <verse xml:id="v1lfeg1y" color="#000000" n="1">
                                  <syl xml:id="s1t5gd93" con="s" wordpos="t">ten</syl>
                               </verse>
-                           </note>
-                           <note xml:id="njt7omj" accid.ges="f" color="#000000" dur="8" oct="4" pname="b" stem.dir="down">
+                        </chord>
+                           <chord>
+                           <note xml:id="njt7omj" accid.ges="f" color="#000000" dur="8" oct="5" pname="d" stem.dir="down"/>
+                           <note xml:id="nj1llpn" color="#000000" dur="8" oct="4" pname="b" stem.dir="up"/>
                               <verse xml:id="vmbgtwe" color="#000000" n="1">
                                  <syl xml:id="s56lyuv" con="s" wordpos="s">áldd</syl>
                               </verse>
+                          </chord>
+                           <chord>
+                           <note xml:id="n1s0nvdl" accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="g" stem.dir="down">
+                              <artic xml:id="a6cpcds" artic="acc"/></note>
+                               <note xml:id="nqe7r5i" color="#000000" dots="1" dur="4" oct="4" pname="b" stem.dir="up">
+                              <artic xml:id="a15yet7d" artic="acc"/>
                            </note>
-                           <note xml:id="n1s0nvdl" accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="e" stem.dir="down">
                               <verse xml:id="v1fvy8s1" color="#000000" n="1">
                                  <syl xml:id="s132l1uh" con="s" wordpos="s">meg</syl>
                               </verse>
-                              <artic xml:id="a6cpcds" artic="acc"/>
-                           </note>
+                              </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="s1t1z2id" n="22" visible="true">
-                        <layer xml:id="lk4tz6v" n="1">
-                           <note xml:id="nuleqs1" accid.ges="f" color="#000000" dots="1" dur="4" oct="4" pname="e" stem.dir="up">
-                              <verse xml:id="v16mbnqt" color="#000000" n="1">
-                                 <syl xml:id="s1rdano5" con="d" wordpos="i">Is</syl>
-                              </verse>
-                           </note>
-                           <note xml:id="n1efkp4h" color="#000000" dur="8" oct="4" pname="f" stem.dir="up">
-                              <verse xml:id="vdukayh" color="#000000" n="1">
-                                 <syl xml:id="s1ni36fv" con="s" wordpos="t">ten</syl>
-                              </verse>
-                           </note>
-                           <note xml:id="nj1llpn" color="#000000" dur="8" oct="4" pname="g" stem.dir="up">
-                              <verse xml:id="vel8koa" color="#000000" n="1">
-                                 <syl xml:id="s70v4nx" con="s" wordpos="s">áldd</syl>
-                              </verse>
-                           </note>
-                           <note xml:id="nqe7r5i" color="#000000" dots="1" dur="4" oct="4" pname="g" stem.dir="up">
-                              <verse xml:id="v1i2ft78" color="#000000" n="1">
-                                 <syl xml:id="sd4p105" con="s" wordpos="s">meg</syl>
-                              </verse>
-                              <artic xml:id="a15yet7d" artic="acc"/>
-                           </note>
-                        </layer>
-                     </staff>
-                     <staff xml:id="s189yln8" n="23" visible="true">
+                     <staff xml:id="s189yln8" n="11" visible="true">
                         <layer xml:id="l8eq04d" n="1">
-                           <note xml:id="nvdltq9" color="#000000" dots="1" dur="4" oct="3" pname="g" stem.dir="up">
-                              <verse xml:id="vxjcnsq" color="#000000" n="1">
-                                 <syl xml:id="s1p2wf35" con="d" wordpos="i">Is</syl>
-                              </verse>
+                           <note xml:id="nvdltq9" color="#000000" dots="1" dur="4" oct="4" pname="a" stem.dir="up">
                            </note>
-                           <note xml:id="nv1yk22" accid.ges="f" color="#000000" dur="8" oct="3" pname="a" stem.dir="up">
-                              <verse xml:id="v1ednhqw" color="#000000" n="1">
-                                 <syl xml:id="syirhcg" con="s" wordpos="t">ten</syl>
-                              </verse>
+                           <note xml:id="nv1yk22" accid.ges="f" color="#000000" dur="8" oct="4" pname="b" stem.dir="up">
                            </note>
-                           <note xml:id="nelapr1" accid.ges="f" color="#000000" dur="8" oct="3" pname="b" stem.dir="down">
-                              <verse xml:id="v1r4djy6" color="#000000" n="1">
-                                 <syl xml:id="svjz7cu" con="s" wordpos="s">áldd</syl>
-                              </verse>
+                           <note xml:id="nelapr1" accid.ges="f" color="#000000" dur="8" oct="5" pname="c" stem.dir="down">
                            </note>
-                           <note xml:id="n1jnxiak" accid.ges="f" color="#000000" dots="1" dur="4" oct="4" pname="e" stem.dir="down">
-                              <verse xml:id="v1ip87dw" color="#000000" n="1">
-                                 <syl xml:id="s1yc9q1p" con="s" wordpos="s">meg</syl>
-                              </verse>
+                           <note xml:id="n1jnxiak" accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="e" stem.dir="down">
                               <artic xml:id="a1xoj16d" artic="acc"/>
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="s1ttuy2h" n="24" visible="true">
+                     <staff xml:id="s1ttuy2h" n="12" visible="true">
                         <layer xml:id="l73fn9o" n="1">
                            <note xml:id="n18zdfvn" accid.ges="f" color="#000000" dots="1" dur="4" oct="3" pname="e" stem.dir="down">
-                              <verse xml:id="v1bkjcfk" color="#000000" n="1">
-                                 <syl xml:id="s4jvjyr" con="d" wordpos="i">Is</syl>
-                              </verse>
                            </note>
                            <note xml:id="n1alqdci" color="#000000" dur="8" oct="3" pname="f" stem.dir="down">
-                              <verse xml:id="v2qilxc" color="#000000" n="1">
-                                 <syl xml:id="sy531hj" con="s" wordpos="t">ten</syl>
-                              </verse>
                            </note>
                            <note xml:id="ntbqxey" color="#000000" dur="8" oct="3" pname="g" stem.dir="down">
-                              <verse xml:id="v1vfx9so" color="#000000" n="1">
-                                 <syl xml:id="sfptkrg" con="s" wordpos="s">áldd</syl>
-                              </verse>
                            </note>
                            <note xml:id="n11eis0w" color="#000000" dots="1" dur="4" oct="3" pname="g" stem.dir="down">
-                              <verse xml:id="v1wsv9xo" color="#000000" n="1">
-                                 <syl xml:id="s1jyu5ve" con="s" wordpos="s">meg</syl>
-                              </verse>
                               <artic xml:id="a126o9mr" artic="acc"/>
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="smlx9fs" n="25" visible="true">
+                     <staff xml:id="smlx9fs" n="13" visible="true">
                         <layer xml:id="l1pntpdw" n="1">
                            <mRest xml:id="r1vgaald" cutout="cutout"/>
                         </layer>
                      </staff>
-                     <staff xml:id="s5pi0wv" n="26" visible="true">
+                     <staff xml:id="s5pi0wv" n="14" visible="true">
                         <layer xml:id="l1aa16k0" n="1">
                            <mRest xml:id="r1iksqld" dur="1"/>
                         </layer>
                      </staff>
-                     <staff xml:id="s2ogl9" n="27" visible="true">
+                     <staff xml:id="s2ogl9" n="15" visible="true">
                         <layer xml:id="l1wo7y22" n="1">
                            <mRest xml:id="rx4l6rt" cutout="cutout"/>
                         </layer>
                      </staff>
-                     <staff xml:id="s5570pe" n="28" visible="true">
+                     <staff xml:id="s5570pe" n="16" visible="true">
                         <layer xml:id="l171hnz" n="1">
                            <mRest xml:id="rjzvuam" cutout="cutout"/>
                         </layer>
