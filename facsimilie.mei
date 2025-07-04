@@ -1002,7 +1002,7 @@
                            </note>
                            <note xml:id="nelapr1" accid.ges="f" color="#000000" dur="8" oct="5" pname="c" stem.dir="down">
                            </note>
-                           <note xml:id="n1jnxiak" accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="e" stem.dir="down">
+                           <note xml:id="n1jnxiak" accid.ges="f" color="#000000" dots="1" dur="4" oct="5" pname="f" stem.dir="down">
                               <artic xml:id="a1xoj16d" artic="acc"/>
                            </note>
                         </layer>
