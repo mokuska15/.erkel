@@ -15,7 +15,7 @@
                <name xml:id="nf2hgff">Verovio</name>
                <p xml:id="p36qc7b">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="af3vm101" enddate="2025-07-17T16:30:28" startdate="2025-02-26T17:49:24" version="1.2.6">
+            <application xml:id="af3vm101" enddate="2025-07-18T20:23:00" startdate="2025-02-26T17:49:24" version="1.2.6">
                <name xml:id="nz5ogob1">mei-friend</name>
                <p xml:id="pypoene">First edit by mei-friend 1.2.2, 20 February 2025.</p>
             </application>
@@ -1053,7 +1053,7 @@
                      </staff>
                      <staff xml:id="s1148ge" n="17">
                         <layer xml:id="lj842v" n="1">
-                           <rest xml:id="r42mwi" dur="1"/>
+                           <mRest xml:id="r42mwi" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s9tzook" n="18" visible="true">
@@ -1183,22 +1183,22 @@
                      </staff>
                      <staff xml:id="s1snkukt" n="6" visible="true">
                         <layer xml:id="l139h4c" n="1">
-                           <rest xml:id="r26juh1" dur="1"/>
+                           <mRest xml:id="r26juh1" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s136aqcz" n="7">
                         <layer xml:id="l1685b0b" n="1">
-                           <rest xml:id="r3fkklt" dur="1"/>
+                           <mRest xml:id="r3fkklt" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1oqcw8y" n="8">
                         <layer xml:id="l1h65q86" n="1">
-                           <rest xml:id="r1tnw11w" dur="1"/>
+                           <mRest xml:id="r1tnw11w" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1w7fq6m" n="9">
                         <layer xml:id="ljsqz0x" n="1">
-                           <rest xml:id="r88o8rl" dur="1"/>
+                           <mRest xml:id="r88o8rl" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sl0xtv" n="10">
@@ -1294,7 +1294,6 @@
                      <staff xml:id="s18xxuki" n="16">
                         <layer xml:id="l1m4m2e0" n="1">
                            <note xml:id="nlun8eg" accid.ges="f" color="#000000" dots="1" dur="2" oct="3" pname="b" stem.dir="down"/>
-                           
                            <beam xml:id="b1jbdmnl">
                               <note xml:id="na5nbda" color="#000000" dur="16" grace="acc" oct="4" pname="c" stem.dir="up"/>
                               <note xml:id="ngpevmj" color="#000000" dur="16" grace="acc" oct="4" pname="d" stem.dir="up"/>
@@ -1304,6 +1303,9 @@
                         </layer>
                      </staff>
                      <staff xml:id="s1nd2aax" n="17">
+                        <layer xml:id="lppwnom1" n="1">
+                        <mRest xml:id="m6fsbyg"/>
+                        </layer>
                      </staff>
                      <staff xml:id="s177cdek" n="18">
                         <layer xml:id="lnt0d62" n="1">
@@ -1432,22 +1434,22 @@
                      </staff>
                      <staff xml:id="svrd7ua" n="6">
                         <layer xml:id="lbg7b6u" n="1">
-                           <rest xml:id="r11axcr4" dur="1"/>
+                           <mRest xml:id="r11axcr4" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1vwvv8y" n="7">
                         <layer xml:id="lgff3bu" n="1">
-                           <rest xml:id="r2a7wgo" dur="1"/>
+                           <mRest xml:id="r2a7wgo" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1nsv8ge" n="8">
                         <layer xml:id="lj8wbav" n="1">
-                           <rest xml:id="ri7imwi" dur="1"/>
+                           <mRest xml:id="ri7imwi" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s12nlnkr" n="9">
                         <layer xml:id="l1m09nvm" n="1">
-                           <rest xml:id="rpxef6v" dur="1"/>
+                           <mRest xml:id="rpxef6v" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1ecu6b0" n="10">
@@ -1509,7 +1511,7 @@
                      </staff>
                      <staff xml:id="s1ns8ge" n="13">
                         <layer xml:id="lj8av" n="1">
-                           <rest xml:id="rmwi" dur="1"/>
+                           <mRest xml:id="rmwi" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1xmfnkp" n="14">
@@ -1739,22 +1741,22 @@
                      </staff>
                      <staff xml:id="sqba8uy" n="6">
                         <layer xml:id="l1mzstnq" n="1">
-                           <rest xml:id="rgm3msa" dur="1"/>
+                           <mRest xml:id="rgm3msa" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1h6yn1v" n="7">
                         <layer xml:id="lngndct" n="1">
-                           <rest xml:id="rtnnj2e" dur="1"/>
+                           <mRest xml:id="rtnnj2e" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s707x5w" n="8">
                         <layer xml:id="l18igqvl" n="1">
-                           <rest xml:id="r1gt1mmq" dur="1"/>
+                           <mRest xml:id="r1gt1mmq" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s707x55w" n="9">
                         <layer xml:id="l9gqvl" n="1">
-                           <rest xml:id="r1gt9mmq" dur="1"/>
+                           <mRest xml:id="r1gt9mmq" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sfwtpxx" n="10">
@@ -1859,7 +1861,7 @@
                      </staff>
                      <staff xml:id="s1gjie" n="17">
                         <layer xml:id="lj8vrv" n="1">
-                           <rest xml:id="rve34i" dur="1"/>
+                           <mRest xml:id="rve34i" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s9c630l" n="18">
@@ -2092,7 +2094,9 @@
                         </layer>
                      </staff>
                       <staff xml:id="sk75ydh" n="13">
-                     <layer xml:id="l8s6lr81"/>
+                     <layer xml:id="l8s6lr81">
+                         <mRest xml:id="m68ckl2"/>
+                         </layer>
                      </staff>
                      <staff xml:id="s1dstcbs" n="14">
                         <layer xml:id="lromulu" n="1">
@@ -2238,22 +2242,22 @@
                      </staff>
                       <staff xml:id="sp812gy" n="6">
                         <layer xml:id="lczgw0x" n="1">
-                           <rest xml:id="r1r1bt90" dur="1"/>
+                           <mRest xml:id="r1r1bt90" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1e4ogrh" n="7">
                         <layer xml:id="lynkyhv" n="1">
-                           <rest xml:id="r1bkt9nv" dur="1"/>
+                           <mRest xml:id="r1bkt9nv" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s4sohnp" n="8">
                         <layer xml:id="l12rk3ot" n="1">
-                           <rest xml:id="r1glf24y" dur="1"/>
+                           <mRest xml:id="r1glf24y" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1pnmd2f" n="9">
                         <layer xml:id="lk3rxg0" n="1">
-                           <rest xml:id="r6q3xch" dur="1"/>
+                           <mRest xml:id="r6q3xch" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sli6ig3" n="10">
@@ -2301,7 +2305,7 @@
                      </staff>
              		<staff xml:id="sp132gy" n="13">
                         <layer xml:id="l31gw0x" n="1">
-                           <rest xml:id="r113r1bt90" dur="1"/>
+                           <mRest xml:id="r113r1bt90" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="so78cxa" n="14">
@@ -2366,7 +2370,7 @@
                      </staff>
              <staff xml:id="sp172gy" n="17">
                         <layer xml:id="lc170x" n="1">
-                           <rest xml:id="r117t90" dur="1"/>
+                           <mRest xml:id="r117t90" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="slhze71" n="18">
@@ -2379,12 +2383,12 @@
                      </staff>
                    <staff xml:id="sp119gy" n="19">
                         <layer xml:id="lc190x" n="1">
-                           <rest xml:id="r1990" dur="1"/>
+                           <mRest xml:id="r1990" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sp1202gy" n="20">
                         <layer xml:id="lc120x" n="1">
-                           <rest xml:id="r02t90" dur="1"/>
+                           <mRest xml:id="r02t90" dur="1"/>
                         </layer>
                      </staff>
                      <slur xml:id="s1n2xzba" color="#000000" curvedir="below" endid="#n1kp7gv6" startid="#nrc85cu"/>
@@ -2448,7 +2452,7 @@
                      </staff>
                      <staff xml:id="s53o30u" n="5">
                         <layer xml:id="l1akzu2h" n="1">
-                           <rest xml:id="r1srdflm" dur="1"/>
+                           <mRest xml:id="r1srdflm" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1fajx13" n="6">
@@ -2458,17 +2462,17 @@
                      </staff>
                      <staff xml:id="s2s3yc3" n="7">
                         <layer xml:id="l10lfs5o" n="1">
-                           <rest xml:id="ribzuls" dur="1"/>
+                           <mRest xml:id="ribzuls" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="snkkdcn" n="8">
                         <layer xml:id="lddf26h" n="1">
-                           <rest xml:id="rky5w7j" dur="1"/>
+                           <mRest xml:id="rky5w7j" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="slj6nsd" n="9">
                         <layer xml:id="l1rhgg4o" n="1">
-                           <rest xml:id="r927e5m" dur="1"/>
+                           <mRest xml:id="r927e5m" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1dwcyrw" n="10">
@@ -2523,7 +2527,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="sq9l4291" n="13"><layer xml:id="ln7fr6w2"/>
+                     <staff xml:id="sq9l4291" n="13">
+                        <layer xml:id="ln7fr6w2">
+                        <mRest xml:id="mik34tn1"/>
+                        </layer>
                      </staff>
                      <staff xml:id="svxte5e" n="14">
                         <layer xml:id="lydp1s4" n="1">
@@ -2587,7 +2594,7 @@
                      </staff>
                       <staff xml:id="sp8y" n="17">
                         <layer xml:id="lczx" n="1">
-                           <rest xml:id="rbt90" dur="1"/>
+                           <mRest xml:id="rbt90" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="ssmizws" n="18">
@@ -2600,12 +2607,12 @@
                      </staff>
                       <staff xml:id="sp9y" n="19">
                         <layer xml:id="lc9x" n="1">
-                           <rest xml:id="rbt99" dur="1"/>
+                           <mRest xml:id="rbt99" dur="1"/>
                         </layer>
                      </staff>
                       <staff xml:id="sp20y" n="20">
                         <layer xml:id="l20x" n="1">
-                           <rest xml:id="rb20" dur="1"/>
+                           <mRest xml:id="rb20" dur="1"/>
                         </layer>
                      </staff>
                      <slur xml:id="s1v04lr" color="#000000" curvedir="above" endid="#n1j2ee7z" startid="#n1g0ey64"/>
@@ -2674,7 +2681,7 @@
                      </staff>
                      <staff xml:id="s1xc721i" n="5">
                         <layer xml:id="lhwiopg" n="1">
-                           <rest xml:id="r16u8huy" dur="1"/>
+                           <mRest xml:id="r16u8huy" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s8za187" n="6">
@@ -2684,12 +2691,12 @@
                      </staff>
                      <staff xml:id="skdodj8" n="7">
                         <layer xml:id="l1o84veu" n="1">
-                           <rest xml:id="r1ozyxc7" dur="1"/>
+                           <mRest xml:id="r1ozyxc7" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1m7qwo8" n="8">
                         <layer xml:id="lkquc4k" n="1">
-                           <rest xml:id="r1r1f5dp" dur="1"/>
+                           <mRest xml:id="r1r1f5dp" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1e3dzts" n="9">
@@ -2742,7 +2749,9 @@
                         </layer>
                      </staff>
                      <staff xml:id="sj4w4at2" n="13">
-                     <layer xml:id="l82f27a"/>
+                     <layer xml:id="l82f27a">
+                       <mRest xml:id="moi3trg1"/> 
+                        </layer>
                      </staff>
                      <staff xml:id="sbhcv2g" n="14">
                         <layer xml:id="llu2ojs" n="1">
@@ -2772,7 +2781,7 @@
                         </layer>
                      </staff>
                       <staff xml:id="svwildo1" n="17">
-                     <layer xml:id="lw51yun1"/>
+                     <layer xml:id="lw51yun1"><mRest xml:id="m93ndr71"/></layer>
                      </staff>
                      <staff xml:id="sbyi3gz" n="18">
                         <layer xml:id="l6j0tr3" n="1">
@@ -2794,11 +2803,15 @@
                            </beam>
                         </layer>
                      </staff>
-                     <staff xml:id="sfjaali2" n="19">
-                     <layer xml:id="lywz2km2"/>
+                     <staff xml:id="sfjli2" n="19">
+                     <layer xml:id="lywz2km2">
+                        <mRest xml:id="m5rest"/>
+                        </layer>
                      </staff>
-                      <staff xml:id="sima4xt1" n="20">
-                     <layer xml:id="lppgsb2"/>
+                      <staff xml:id="s6it1" n="20">
+                     <layer xml:id="lz2km2">
+                        <mRest xml:id="m4rest"/>
+                        </layer>
                      </staff>
                      <hairpin xml:id="hmkwn9e" color="#000000" form="cres" staff="3" tstamp="3" tstamp2="0m+3.5039" vgrp="550"/>
                      <hairpin xml:id="h3g2jck" color="#000000" form="dim" staff="3" tstamp="3.6406" tstamp2="0m+4.1133" vgrp="550"/>
@@ -3047,8 +3060,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="s9w48hv2" n="13">
-                     <layer xml:id="ld49pq41"/>
+                     <staff xml:id="sr84v6c" n="13">
+                     <layer xml:id="ldgs4uo2" n="1">
+                        <mRest xml:id="m5asasl1"/>
+                        </layer>
                      </staff>
                      <staff xml:id="s3ju8j3" n="14" visible="true">
                         <layer xml:id="l9apd" n="1">
@@ -3100,7 +3115,10 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="s37o3pz2" n="17"><layer xml:id="lagacbe1"/>
+                     <staff xml:id="sle6307" n="17">
+                     <layer xml:id="lbbk8961" n="1">
+                        <mRest xml:id="mdxumpr2"/>
+                        </layer>
                      </staff>
                      <staff xml:id="s1xi97sx" n="18" visible="true">
                         <layer xml:id="latiqcv" n="1">
@@ -3376,7 +3394,11 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="sph0sdh" n="13"><layer xml:id="lo4q26w2"/></staff>
+                     <staff xml:id="sph0sdh" n="13">
+                        <layer xml:id="lo4q26w2">
+                        <mRest></mRest>
+                        </layer>
+                        </staff>
                      <staff xml:id="s18amw0y" n="14">
                         <layer xml:id="lpp0d91" n="1">
                            <note xml:id="n17vofou" color="#000000" dur="4" oct="5" pname="c" stem.dir="down">
@@ -3482,7 +3504,11 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="ssh5or8" n="17"><layer xml:id="lrrlq6w2"/></staff>
+                     <staff xml:id="sqozi591" n="17">
+                     <layer xml:id="llq60af" n="1">
+                        <mRest xml:id="mlbatfg"/>
+                        </layer>
+                     </staff>
                      <staff xml:id="s1g4md65" n="18">
                         <layer xml:id="l22hat9" n="1">
                            <note xml:id="n11lr5g1" accid.ges="f" color="#000000" dur="4" oct="3" pname="e" stem.dir="down">
@@ -3665,7 +3691,7 @@
                      </staff>
                      <staff xml:id="s9ycott" n="9">
                         <layer xml:id="l11w72lf" n="1">
-                           <rest xml:id="rkjhv5x" dur="1"/>
+                           <mRest xml:id="rkjhv5x" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="szfift6" n="10">
@@ -3720,7 +3746,9 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="smu4qdr1" n="13"><layer xml:id="lptzwz71"/></staff>
+                     <staff xml:id="smu4qdr1" n="13">
+                        <layer xml:id="lptzwz71"><mRest></mRest></layer>
+                     </staff>
                      <staff xml:id="s1l3dvaf" n="14">
                         <layer xml:id="lukk1wk" n="1">
                            <note xml:id="n11fmudh" color="#000000" dots="1" dur="4" oct="5" pname="g" stem.dir="down"/>
@@ -3759,7 +3787,11 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="s97bqoa" n="17"><layer xml:id="la8r6s71"/></staff>
+                     <staff xml:id="sczo30z2" n="17">
+                     <layer xml:id="lmajvti1" n="1">
+                        <mRest xml:id="m6mmwfb"/>
+                        </layer>
+                     </staff>
                      <staff xml:id="s1hcj4ga" n="18">
                         <layer xml:id="l5ahz4a" n="1">
                            <note xml:id="n1ax1je2" accid.ges="f" color="#000000" dots="1" dur="4" oct="3" pname="e" stem.dir="down"/>
@@ -4016,7 +4048,11 @@
                            </note>
                         </layer>
                      </staff>
-                     <staff xml:id="s0pm1t7" n="13"><layer xml:id="lp9ya1r2"/></staff>
+                     <staff xml:id="s0pm1t7" n="13">
+                        <layer xml:id="lp9ya1r2">
+                        <mRest></mRest>
+                        </layer>
+                     </staff>
                      <staff xml:id="s1i8qdiq" n="14">
                         <layer xml:id="lv7t7rl" n="1">
                            <note xml:id="n1baq44j" accid.ges="f" color="#000000" dur="4" oct="5" pname="e" stem.dir="down">
@@ -4101,7 +4137,11 @@
                            </chord>
                         </layer>
                      </staff>
-                     <staff xml:id="s1z1mi7" n="17"><layer xml:id="lnx5nk3"/></staff>
+                    <staff xml:id="st5e85d" n="17">
+                     <layer xml:id="ltkcbh7" n="1">
+                        <mRest xml:id="m5ryf511"/>
+                        </layer>
+                     </staff>
                      <staff xml:id="st4euk3" n="18">
                         <layer xml:id="lyxmpx7" n="1">
                            <note xml:id="n10ltbre" color="#000000" dur="4" oct="3" pname="g" stem.dir="down">
