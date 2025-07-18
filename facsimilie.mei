@@ -5620,17 +5620,17 @@
                      </staff>
                      <staff xml:id="s1i4b85" n="6" visible="true">
                         <layer xml:id="l1rj9ce2" n="1">
-                           <rest xml:id="r1n3ok42" dur="1"/>
+                           <mRest xml:id="r1n3ok42" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1ve7iwm" n="7" visible="true">
                         <layer xml:id="lfskla1" n="1">
-                           <rest xml:id="r1jezbjh" dur="1"/>
+                           <mRest xml:id="r1jezbjh" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sjdl97l" n="8" visible="true">
                         <layer xml:id="l9msz23" n="1">
-                           <rest xml:id="r7fawe5" dur="1"/>
+                           <mRest xml:id="r7fawe5" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sjd11l" n="9" visible="true">
@@ -5640,12 +5640,12 @@
                      </staff>
                      <staff xml:id="sj107l" n="10" visible="true">
                         <layer xml:id="l910z23" n="1">
-                           <rest xml:id="r710e5" dur="1"/>
+                           <mRest xml:id="r710e5" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sjdl11" n="11" visible="true">
                         <layer xml:id="l11z23" n="1">
-                           <rest xml:id="r711we5" dur="1"/>
+                           <mRest xml:id="r711we5" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sg4sc89" n="12" visible="true">
@@ -5748,12 +5748,12 @@
                   <measure xml:id="mqrsi33" n="188">
                      <staff xml:id="s1s3l2pt" n="1">
                         <layer xml:id="l9winj" n="1">
-                           <rest xml:id="rf87see" dur="1"/>
+                           <mRest xml:id="rf87see" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="scydj6j" n="2">
                         <layer xml:id="l18so48o" n="1">
-                           <rest xml:id="r1q795gx" dur="1"/>
+                           <mRest xml:id="r1q795gx" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1s9uase" n="3">
@@ -5807,17 +5807,17 @@
                      </staff>
                      <staff xml:id="s1y59sk1" n="6">
                         <layer xml:id="lfel66l" n="1">
-                           <rest xml:id="rm1ti2q" dur="1"/>
+                           <mRest xml:id="rm1ti2q" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sya6x0v" n="7">
                         <layer xml:id="lymlx44" n="1">
-                           <rest xml:id="r22c8tl" dur="1"/>
+                           <mRest xml:id="r22c8tl" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1x7nbn5" n="8">
                         <layer xml:id="lmcwc7y" n="1">
-                           <rest xml:id="r1epbf01" dur="1"/>
+                           <mRest xml:id="r1epbf01" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="szjpqwu" n="9">
@@ -5832,17 +5832,17 @@
                      </staff>
                      <staff xml:id="s1t8scp9" n="10">
                         <layer xml:id="l1hlcymo" n="1">
-                           <rest xml:id="rtuqciw" dur="1"/>
+                           <mRest xml:id="rtuqciw" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1u7zf4y" n="11">
                         <layer xml:id="lkltoxo" n="1">
-                           <rest xml:id="r1wzgp9c" dur="1"/>
+                           <mRest xml:id="r1wzgp9c" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="stfg6yf" n="12">
                         <layer xml:id="l126uhx1" n="2">
-                           <rest xml:id="r122uvrk" dur="1"/>
+                           <mRest xml:id="r122uvrk" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1kci8qr" n="13">
@@ -5916,7 +5916,7 @@
                      <slur xml:id="sen6m0r" color="#000000" curvedir="below" endid="#n1ypuksz" startid="#nka89nr"/>
                      <tie xml:id="tjfk9bg" curvedir="above" endid="#n2edqn2" startid="#nrxlapx"/>
                      <slur xml:id="s1t06nrm" color="#000000" curvedir="above" endid="#np9kl46" startid="#nd7g1f6"/>
-                     <trill xml:id="t529ng7" staff="12" startid="#nj80e2y"/>
+                     <trill xml:id="t529ng7" staff="9" startid="#nj80e2y"/>
                      <tie xml:id="t1fd2cen" curvedir="below" endid="#n6gl9w7" startid="#n1m7kcmn"/>
                      <slur xml:id="s1uan6zh" color="#000000" curvedir="below" endid="#n11quo56" startid="#nj05ico"/>
                      <slur xml:id="swny33q" color="#000000" curvedir="below" endid="#nshbfm" startid="#nhhmv9v"/>
@@ -5928,12 +5928,12 @@
                   <measure xml:id="m1d7uto1" n="189" right="end">
                      <staff xml:id="s1bphggp" n="1">
                         <layer xml:id="lv4p974" n="1">
-                           <rest xml:id="ru3lyp0" dur="1"/>
+                           <mRest xml:id="ru3lyp0" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="sxw1lt8" n="2">
                         <layer xml:id="l1ulowe8" n="1">
-                           <rest xml:id="rhigptv" dur="1"/>
+                           <mRest xml:id="rhigptv" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1vkcs71" n="3">
@@ -5983,17 +5983,17 @@
                      </staff>
                      <staff xml:id="s1hvd1wm" n="6">
                         <layer xml:id="lu9plsm" n="1">
-                           <rest xml:id="r6adwyx" dur="1"/>
+                           <mRest xml:id="r6adwyx" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1en30yz" n="7">
                         <layer xml:id="l1qah9vx" n="1">
-                           <rest xml:id="rdpmwta" dur="1"/>
+                           <mRest xml:id="rdpmwta" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="s7xdgz2" n="8">
                         <layer xml:id="l14k1wsz" n="1">
-                           <rest xml:id="r1i4awkb" dur="1"/>
+                           <mRest xml:id="r1i4awkb" dur="1"/>
                         </layer>
                      </staff>
                      <staff xml:id="synd5nr" n="9">
@@ -6104,37 +6104,21 @@
                      <hairpin xml:id="h6031hl" color="#000000" form="dim" staff="6" tstamp="2.75" tstamp2="0m+4.9609" vgrp="800"/>
                      <fermata xml:id="f1wddpo4" shape="curved" staff="6" startid="#nxmqze2"/>
                      <fermata xml:id="f22o2ko" shape="curved" staff="12" startid="#n1fj2by2"/>
-                     <trill xml:id="tu29ng7" staff="12" startid="#n1fj2by2"/>
-                     <hairpin xml:id="h18pgeof" color="#000000" form="cres" staff="12" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
-                     <hairpin xml:id="hb35g4t" color="#000000" form="dim" staff="12" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
+                     <trill xml:id="tu29ng7" staff="9" startid="#n1fj2by2"/>
+                     <hairpin xml:id="h18pgeof" color="#000000" form="cres" staff="9" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
+                     <hairpin xml:id="hb35g4t" color="#000000" form="dim" staff="9" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
                      <hairpin xml:id="h1oxw08m" color="#000000" form="cres" staff="17" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
                      <hairpin xml:id="h15a1und" color="#000000" form="dim" staff="17" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
                      <fermata xml:id="f1ulhboi" shape="curved" staff="17" startid="#n1eqlfeu"/>
                      <slur xml:id="s1vrl18r" color="#000000" curvedir="below" endid="#nmcdh1k" startid="#n1yzj4h4"/>
                      <slur xml:id="sdi23ds" color="#000000" curvedir="below" endid="#n184vnsp" startid="#nipvy6b"/>
                      <slur xml:id="s1jhi2qw" color="#000000" curvedir="below" endid="#npzd8bg" startid="#nipvy6b"/>
-                     <hairpin xml:id="hh2p4ui" color="#000000" form="cres" staff="25" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
-                     <hairpin xml:id="h1fost5o" color="#000000" form="dim" staff="25" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
-                     <fermata xml:id="f98luqu" shape="curved" staff="25" startid="#nqq00s"/>
                      <slur xml:id="s1uwdp6u" color="#000000" curvedir="below" endid="#n66s0r4" startid="#n1o0fae8"/>
                      <slur xml:id="swle6y4" color="#000000" curvedir="below" endid="#n18mqb94" startid="#n1wbne5h"/>
-                     <hairpin xml:id="h1lgzc3r" color="#000000" form="cres" staff="26" tstamp="3" tstamp2="0m+3.7656" vgrp="660"/>
-                     <hairpin xml:id="h1f67avn" color="#000000" form="dim" staff="26" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="660"/>
-                     <fermata xml:id="fmy1n9m" shape="curved" staff="26" startid="#n1fofemx"/>
                      <slur xml:id="s1qlxyrd" color="#000000" curvedir="below" endid="#n1kqvkzo" startid="#nw2xgax"/>
                      <slur xml:id="s1cijasw" color="#000000" curvedir="below" endid="#nherunl" startid="#ny1ywdz"/>
-                     <hairpin xml:id="hnbdw9u" color="#000000" form="cres" staff="27" tstamp="3" tstamp2="0m+3.7656" vgrp="650"/>
-                     <hairpin xml:id="hjjf4e1" color="#000000" form="dim" staff="27" tstamp="3.8711" tstamp2="0m+4.5742" vgrp="650"/>
-                     <fermata xml:id="fb4wvmc" shape="curved" staff="27" startid="#n1y1dmnt"/>
-                     <fermata xml:id="fzz3dpb" shape="curved" staff="28" startid="#ndwwixx"/>
                      <hairpin xml:id="h1eqnfqa" color="#000000" form="cres" staff="28" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
                      <hairpin xml:id="h1fz2jfo" color="#000000" form="dim" staff="28" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
-                     <dir xml:id="d1olh81c" staff="29" tstamp="2.25" type="dacapo" vgrp="1100">
-                        <rend xml:id="rhtcgv2" fontfam="Times New Roman" fontstyle="italic" fontweight="normal">Da Capo dal Segno al Fine</rend>
-                     </dir>
-                     <fermata xml:id="f1vx1kta" shape="curved" staff="29" startid="#n1kj01d8"/>
-                     <hairpin xml:id="hh8o08m" color="#000000" form="cres" staff="29" tstamp="1" tstamp2="0m+2.5" vgrp="650"/>
-                     <hairpin xml:id="h142a0gv" color="#000000" form="dim" staff="29" tstamp="2.75" tstamp2="0m+4.9609" vgrp="650"/>
                   </measure>
                </section>
             </score>
