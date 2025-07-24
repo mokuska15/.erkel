@@ -1598,7 +1598,7 @@
                                <note xml:id="n1mw2rp" color="#000000" dots="1" dur="8" oct="4" pname="a" stem.dir="up"/>
                                  <note xml:id="n1mcw2rp" color="#000000" dots="1" dur="8" oct="5" pname="c" stem.dir="up"/>
                               </chord>
-                              <chord xml:id="cm8vrt81">
+                              <chord xml:id="cm8vrt81" dur="16" >
                                  <note xml:id="n17dd" color="#000000" dur="16" oct="4" pname="d" stem.dir="down">
                                  <accid xml:id="kl7tf" accid="f"/>
                               </note>
@@ -1612,7 +1612,7 @@
                                <note xml:id="n1m2w2rp" color="#000000" dots="1" dur="8" oct="4" pname="g" stem.dir="up"/>
                                  <note xml:id="n1m2cw2rp" color="#000000" dots="1" dur="8" oct="4" pname="b" stem.dir="up"/>
                               </chord>
-                              <chord xml:id="cyr6jvu2">
+                              <chord xml:id="cyr6jvu2" dur="16" >
                                  <note xml:id="n17d2d" color="#000000" dur="16" oct="4" pname="c" stem.dir="down">
                               </note>
                                <note xml:id="n1mchw22rp" color="#000000" dur="16" oct="4" pname="f" stem.dir="up"/>
@@ -1625,7 +1625,7 @@
                                <note xml:id="n1mw32rp" color="#000000" dots="1" dur="8" oct="4" pname="f" stem.dir="up"/>
                                  <note xml:id="n1m3cw2rp" color="#000000" dots="1" dur="8" oct="4" pname="a" stem.dir="up"/>
                               </chord>
-                              <chord xml:id="c15lv1e">
+                              <chord xml:id="c15lv1e" dur="16" >
                                  <note xml:id="n17d3d" color="#000000" dur="16" oct="4" pname="b" stem.dir="down"/>
                                <note xml:id="n1mc3hw2rp" color="#000000" dur="16" oct="4" pname="d" stem.dir="up">
                                    <accid xml:id="kl37tf" accid="n"/>
@@ -1639,7 +1639,7 @@
     <note xml:id="ng670am1" dots="1" dur="8" oct="4" pname="e"/>
     <note xml:id="nutmczi1" dots="1" dur="8" oct="4" pname="g"/>
   </chord>
-  <chord xml:id="caqzodo2">
+  <chord xml:id="caqzodo2" dur="16" >
     <note xml:id="n0pffd2" dur="16" oct="3" pname="a"/>
     <note xml:id="nbqieem1" dur="16" oct="4" pname="c"/>
     <note xml:id="ne4flii1" dur="16" oct="4" pname="f"/>
